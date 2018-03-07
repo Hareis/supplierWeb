@@ -5,16 +5,64 @@
                 <div class="grid-content bg-purple">
 
                     <div>
-                        <div><label for="">账户名称</label><span></span></div>
-                        <div><label for="">公司名称</label><span></span></div>
-                        <div><label for="">供应商姓名</label><span></span></div>
+                        <div><label for="">账户名称：</label><span>上海</span></div>
+                        <div><label for="">公司名称：</label><span>上海上海上海上海上海上海上海上海上海上海</span></div>
+                        <div><label for="">供应商姓名：</label><span>上海上海上海上海</span></div>
                     </div>
 
                     <hr>
 
                     <el-form ref="form" :model="form" label-width="80px">
+                        <el-form-item label="所属省份">
+                            <el-input size="mini" v-model="form.name"></el-input>
+                        </el-form-item>
+                        <el-form-item label="出票电话">
+                            <el-input size="mini" v-model="form.name"></el-input>
+                        </el-form-item>
+                        <el-form-item label="出票QQ">
+                            <el-input v-model="form.name"></el-input>
+                        </el-form-item>
+                        <el-form-item label="退票电话">
+                            <el-input size="mini" v-model="form.name"></el-input>
+                        </el-form-item>
+                        <el-form-item label="退票QQ">
+                            <el-input size="mini" v-model="form.name"></el-input>
+                        </el-form-item>
+                        <el-form-item label="活动名称">
+                            <el-input size="mini" v-model="form.name"></el-input>
+                        </el-form-item>
                         <el-form-item label="活动名称">
                             <el-input v-model="form.name"></el-input>
+                        </el-form-item>
+                        <el-form-item label="活动名称">
+                            <el-input size="mini" v-model="form.name"></el-input>
+                        </el-form-item>
+                        <el-form-item label="活动名称">
+                            <el-input size="mini" v-model="form.name"></el-input>
+                        </el-form-item>
+                        <el-form-item label="活动名称">
+                            <el-input size="mini" v-model="form.name"></el-input>
+                        </el-form-item>
+                        <el-form-item label="活动名称">
+                            <el-input size="mini" v-model="form.name"></el-input>
+                        </el-form-item>
+                        <el-form-item label="活动名称">
+                            <el-input size="mini" v-model="form.name"></el-input>
+                        </el-form-item>
+                        <el-form-item label="活动名称">
+                            <el-input size="mini" v-model="form.name"></el-input>
+                        </el-form-item>
+                        <el-form-item label="活动名称">
+                            <el-input size="mini" v-model="form.name"></el-input>
+                        </el-form-item>
+                        <el-form-item label="活动名称">
+                            <el-input size="mini" v-model="form.name"></el-input>
+                        </el-form-item>
+                        <el-form-item label="活动名称">
+                            <el-input size="mini" v-model="form.name"></el-input>
+                        </el-form-item>
+                        <el-form-item label="活动名称">
+                            <el-input size="mini" v-model="form.name"></el-input>
                         </el-form-item>
                         <el-form-item label="活动区域">
                             <el-select v-model="form.region" placeholder="请选择活动区域">
