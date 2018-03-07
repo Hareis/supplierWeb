@@ -9,10 +9,18 @@ const routes = [
     {
         name: "signIn", path: '/manager',
         component: () => import('./../page/pageSection/pageSection.vue'),
-        children:[
+        children: [
             {name: "signIn", path: '', component: () => import('./../page/main/main.vue')},
-            {name: "userManager", path: 'userManager', component: () => import('./../page/userManager/userManager.vue')},
-            {name: "accountInfo", path: 'accountInfo', component: () => import('./../page/accountInfo/accountInfo.vue')},
+            {
+                name: "userManager",
+                path: 'userManager',
+                component: () => import('./../page/userManager/userManager.vue')
+            },
+            {
+                name: "accountInfo",
+                path: 'accountInfo',
+                component: () => import('./../page/accountInfo/accountInfo.vue')
+            },
         ]
     },
 ];
