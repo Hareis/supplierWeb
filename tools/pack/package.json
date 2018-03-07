@@ -1,0 +1,19 @@
+{
+  "name": "pack",
+  "version": "1.0.0",
+  "main": "pack.js",
+  "scripts": {
+    "pack-prd": "node app.js --env=prd",
+    "pack-demo": "node app.js --env=demo",
+    "pack-dev": "node app.js --env=dev"
+  },
+  "dependencies": {
+    "axios": "~0.17.1",
+    "glob": "~7.1.2",
+    "linq": "~3.0.9",
+    "moment": "~2.19.2",
+    "ncp": "~2.0.0",
+    "rimraf": "~2.6.2"
+  },
+  "author": "Jack"
+}

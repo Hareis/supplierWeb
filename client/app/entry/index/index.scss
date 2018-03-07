@@ -1,0 +1,877 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-family: PingFangSC-Light, "Microsoft YaHei", "Hiragino Sans GB", "Helvetica Neue", Helvetica, Verdana, Arial
+}
+
+#nav_div {
+  width: 100%;
+  height: 60px;
+  background: #b90040;
+}
+
+#nav_div ul {
+  position: relative;
+  margin: 0 auto;
+  width: 1140px;
+  height: 60px;
+}
+
+#nav_div li {
+  float: left;
+  margin-right: 0px;
+  width: 110px;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+}
+
+#nav_div li:hover {
+  background: #ef6969;
+}
+
+#nav_div ul li:nth-child(6) {
+  float: right;
+}
+
+li {
+  list-style: none;
+}
+
+#nav_div li > a {
+  color: #fff;
+  text-decoration: none !important;
+  font-weight: 700;
+  font-family: "Microsoft YaHei";
+
+}
+
+a:hover {
+  color: #fff;
+
+}
+
+#bgli {
+  position: absolute;
+  background: #FABD00;
+  width: 70px;
+  height: 60px;
+  z-index: 100;
+  color: #FABD00;
+}
+
+.upper {
+  text-transform: uppercase;
+}
+
+footer {
+  background: #3F4553;
+  width: 100%;
+  padding: 20px 0 0 0 !important;
+  height: 185px;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  clear: both;
+
+}
+
+.footer_con {
+  height: 120px;
+  border-bottom: 1px solid #646464;
+}
+
+.footer {
+  width: 1140px;
+  margin: 0 auto;
+}
+
+.hotline {
+  padding: 10px;
+  border-right: 1px solid #646464;
+  padding-top:26px;
+
+}
+
+.hotline1 {
+  position: relative;
+  left: 44px;
+  top: 10px;
+}
+
+.container {
+  max-width: 1140px !important;
+  margin: 0 auto;
+  margin-top: 0px;
+  .el-card__body {
+    font-size:12px !important;
+    padding: 10px;
+  }
+}
+.orderListHtml{
+  width:1140px;
+  margin:0 auto;
+
+}
+.orderListHtml>.container{
+  width:920px;
+  margin-left:10px;
+  float:left;
+}
+.hotline1 i {
+  font-size: 45px !important;
+  color: #A3A7BF;
+}
+
+.hotline span {
+  padding: 8px 0;
+  display: block;
+  width: 150px;
+  text-align: center;
+  color: #fff;
+}
+
+.hotline span:nth-child(2) {
+
+  font-weight: bold !important;
+}
+
+.footer_ul {
+  margin-top: 10px;
+}
+
+.footer_ul li {
+  color: #A3A7BF;
+  font-size: 12px;
+}
+
+.footer_ul li:hover {
+  color: #66b1ff !important;
+  cursor: pointer;
+}
+
+.footer_ul li:nth-child(1) {
+  font-size: 13px;
+  color: #fff;
+}
+
+.law_info {
+  height: 30px;
+  margin: 0 auto !important;
+  line-height: 30px;
+  width: 600px;
+  padding: 10px;
+  color: #A3A7BF;
+  font-size: 14px;
+  text-align: center;
+}
+
+#mysignInfo_ul {
+  display: none;
+  width: 110px !important;
+  height: 120px !important;
+  background: #b90040;
+  z-index: 9999;
+}
+
+#mysignInfo_ul1 {
+  display: none;
+  width: 110px !important;
+  height: 240px !important;
+  background: #b90040;
+  z-index: 9999;
+}
+
+#mysignInfo_ul li, #mysignInfo_ul1 li {
+  color: #fff;
+  font-size: 14px;
+}
+
+#mysignInfo_ul2 {
+  display: none;
+  width: 110px !important;
+  height: 180px !important;
+  background: #b90040;
+  z-index: 9999;
+  cursor: pointer;
+}
+
+#mysignInfo_ul li, #mysignInfo_ul2 li {
+  color: #fff;
+  font-size: 14px;
+}
+
+.city_box_tit a:hover {
+  color: #5a5e66;
+  cursor: pointer;
+}
+
+#mysignInfo_ul li:hover {
+  cursor: pointer;
+}
+
+#mysignInfo_ul1 li:hover {
+  cursor: pointer;
+}
+
+#mysignInfo ul li {
+  clear: both;
+}
+
+#mysignInfo1 ul li {
+  clear: both;
+}
+
+#mysignInfo2 ul li {
+  clear: both;
+}
+
+.law_info div:hover {
+  color: #66b1ff;
+  cursor: pointer;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.el-icon-success {
+  color: #5daf34;
+}
+
+body {
+
+  min-width: 1140px;
+  overflow-x: hidden !important;
+
+  margin: 0;
+  font-size: #333;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
+
+.timeChoose {
+  width: 200px !important;
+}
+
+.el-table th, .el-table__row {
+  text-align: center;
+}
+
+/*订单样式*/
+.bgColor {
+  //  background: url(../../img/timg.jpg) repeat center;
+  margin-top: 0px;
+  padding: 0;
+}
+
+.el-card {
+  border: 1px solid #e6ebf5;
+  background-color: #fff;
+  box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+  color: #333;
+  margin-bottom: 10px;
+}
+
+header {
+
+  height: 30px;
+  color: #878d99;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 30px;
+  padding-left: 8px;
+  font-family: "Microsoft YaHei";
+}
+
+/*订单信息*/
+.order_search {
+  font-size: 12px;
+}
+
+.order_search > .el-row > .el-col {
+  margin-top: 5px;
+}
+
+.order_search > .el-row > .el-col > span {
+  display: inline-block;
+  text-align: right;
+  width: 80px;
+  vertical-align: middle;
+  line-height: 32px;
+}
+
+.order_search > .el-row > .el-col > .el-input {
+  width: 160px !important;
+  vertical-align: middle;
+}
+
+/*航班信息*/
+.range_info, .passenger_info {
+  font-size: 12px;
+}
+
+.range_info > .el-table {
+  font-size: 12px;
+}
+
+.range_info > .el-table td, .range_info > .el-table th {
+  text-align: left;
+}
+
+.range_info > .el-table > .el-table__row > .el-input {
+  width: 40px;
+}
+
+/*乘客信息*/
+.passenger_info > .el-table {
+  font-size: 12px;
+}
+
+.passenger_info > .el-table td, .passenger_info > .el-table th {
+  text-align: left;
+}
+
+/*联系人*/
+.contact_info {
+  font-size: 12px;
+}
+
+.contact_info > .el-form > .el-form-item > .el-form-item__label {
+  display: inline-block;
+  text-align: right;
+  width: 80px;
+  vertical-align: middle;
+  line-height: 32px;
+  font-size: 12px;
+}
+
+.contact_info > .el-form > .el-form-item > .el-form-item__content {
+  line-height: 32px;
+}
+
+.contact_info > .el-form > .el-form-item > .el-form-item__content > .el-input {
+  width: 160px !important;
+  vertical-align: middle;
+}
+
+/*改期 退票信息*/
+.memo_info {
+  font-size: 12px;
+}
+
+.memo_info > .el-row > .el-col > span {
+  text-align: right;
+  margin-left: 40px;
+  vertical-align: top;
+}
+
+.memo_info > .el-row {
+  margin-top: 10px;
+}
+
+.memo_plan {
+  font-size: 12px;
+}
+
+.memo_plan > .el-row > .el-col > .el-col {
+  margin-top: 10px;
+}
+
+.memo_plan > .el-row > .el-col > .el-col > .el-input {
+  width: 160px !important;
+}
+
+.memo_plan > .el-row > .el-col > .el-col > span {
+  width: 160px !important;
+  display: inline-block;
+  text-align: right;
+  margin-right: 10px;
+}
+
+.memo_plan > .el-row > .el-col > .el-col > .el-textarea1 {
+  width: 300px !important;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  display: inline-block;
+  padding: 5px;
+  line-height: 20px;
+}
+
+.memo_plan > .el-row > .el-col > .el-col > .el-textarea1 > span {
+  display: block;
+  color: red;
+
+}
+
+/*规则信息*/
+
+.rule_info > .el-form > .el-form-item {
+  margin-bottom: 10px;
+}
+
+.rule_info > .el-form > .el-form-item > .el-form-item__label {
+  display: inline-block;
+  text-align: right;
+  width: 80px;
+  vertical-align: middle;
+  line-height: 32px;
+  font-size: 12px;
+}
+
+.rule_info > .el-form > .el-form-item > .el-form-item__content {
+  line-height: 32px;
+}
+
+.rule_info > .el-form > .el-form-item > .el-form-item__content > .el-input {
+  width: 160px !important;
+  vertical-align: middle;
+}
+
+.success {
+  color: green;
+  font-size: 20px;
+}
+
+.order_status_btn {
+  margin: 0 auto;
+  width: 100px;
+  text-align: center;
+  background: #ffc145;
+  color: #fff;
+  border-radius: 8px;
+}
+
+.operation_btn {
+  width: 100px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+table, .cell {
+  text-align: center;
+}
+
+.guest_rules {
+  color: #878d99;
+  font-size: 15px;
+  padding-left: 30px;
+
+}
+
+.PnrTip {
+  color: #4f535a;
+  font-size: 15px;
+  padding-left: 30px;
+}
+
+#orderDetailsShow .el-dialog {
+  width: 1140px !important;
+  margin-top: 7vh !important;
+}
+
+#orderDetailsShow .el-dialog .el-dialog__body {
+  padding: 0 20px !important;
+}
+
+#orderDetailsShow .el-dialog .el-dialog__header {
+  padding-top: 8px !important;
+}
+
+/*航班信息*/
+
+.flightResults {
+  margin: auto;
+  margin-top: 10px;
+  width: 95%;
+  /* border: 2px solid #f6adcf; */
+  padding: 0 10px;
+  clear: both;
+
+}
+
+.flightResults > .el-row {
+  line-height: 30px;
+}
+
+.flight_info {
+  padding: 8px 0;
+  line-height: 25px;
+}
+
+.flight_info .el-row {
+  margin-top: 5px;
+}
+
+.flight_info .el-col span {
+  display: block;
+}
+
+.flight_info .el-col span:nth-child(1) {
+  font-size: 14px;
+}
+
+.flight_info .el-col span:nth-child(2) {
+  font-size: 12px;
+  color: #9da2b8;
+}
+
+.airlines,
+.departure,
+.arrival,
+.direct,
+.space {
+  padding-top: 20px;
+}
+
+.flight_details {
+  margin-top: 32px;
+}
+
+.turn_info {
+  border-radius: 10px;
+  border: 2px #66b1ff dashed;
+  padding: 5px 20px;
+  margin: 10px;
+}
+
+.trip {
+  border-radius: 10px;
+  padding: 0px 5px;
+  display: inline-block;
+  width: 30px;
+  text-align: center;
+}
+
+.one_way .trip {
+  background: #66b1ff;
+}
+
+.return_way .trip {
+  background: #ffc145;
+}
+
+.line_div {
+  border-top: 1px solid #ffc145;
+}
+
+.addPassengerInfo-panel .el-form--inline .el-form-item__label {
+  width: 82px;
+}
+
+.addPassengerInfo-panel .el-select > .el-input {
+  display: block;
+  width: 200px;
+}
+
+.addPassengerInfo-panel .el-input {
+  width: 200px;
+}
+
+.money {
+  font-size: 24px;
+  color: #ff8247;
+}
+
+.payfail {
+  font-size: 24px;
+  color: red;
+}
+
+.paysuccess {
+  font-size: 24px;
+  color: #67c23a;
+}
+
+.city_box_flight a {
+  text-align: center !important;
+  padding-left: 0 !important;
+  text-decoration: none;
+  font-size: 13px !important;
+}
+
+.city_box_flight a:hover, .city_box .mc_bd dl dd a:hover {
+  background-color: #00d775 !important;
+  color: #fff !important;
+}
+
+.city_box_tit a:hover {
+  color: #00d775;
+  cursor: pointer;
+}
+
+.city_box_tit a {
+  margin: 0 5px;
+  padding: 2px 8px;
+  border-radius: 3px 3px 0 0;
+  display: inline-block;
+  font-size: 14px;
+  color: #00b2d6;
+}
+
+.el-input--suffix .el-input__inner {
+  padding-right: 10px;
+}
+
+#booking_upper1 {
+  text-transform: uppercase !important;
+}
+
+#booking_upper2 {
+  text-transform: uppercase !important;
+}
+
+#booking_upper3 {
+  text-transform: uppercase !important;
+}
+
+.noneBorder input{
+    border:none
+}
+
+#booking_upper4 {
+  text-transform: uppercase !important;
+
+}
+
+#newDepDatetime {
+  width: 170px;
+}
+.request>span{
+  text-align: left !important;
+}
+
+
+
+.flightInfoList{
+    width:1090px;
+    height:100px;
+    padding:10px 20px;
+    clear: both;
+}
+.flightNumber{
+    width:250px;
+
+    float: left;
+    height:60px;
+    padding-top:20px;
+}
+.flightNumber div{
+    float: left;
+    width:80px;
+}
+.flightNumber div:nth-child(1){
+    width:40px;
+}
+.flightNumber div:nth-child(1) img{
+    width:40px;
+    height:35px;
+} 
+
+.flightNumber div:nth-child(2){
+    width:200px;
+}
+.flightNumber div:nth-child(2) span{
+    display: inline-block;
+    width:180px;
+    height:18px;
+    line-height: 18px;
+} 
+//航程时间、机场
+.flightPassage{
+    float: left;
+    width:500px;
+    height:80px;
+    padding-top:20px;
+}
+.fl_dep, .fl_time,.fl_arr{
+    float: left;
+}
+.fl_dep, .fl_arr{
+    width:150px;
+}
+.fl_time{
+    width:200px;
+}
+.fl_dep span, .fl_arr span{
+   display:inline-block;
+   width:100%;
+   text-align: right;
+}
+.fl_arr span{
+    text-align: left;
+}
+.fl_dep span:nth-child(1), .fl_arr span:nth-child(1){
+    height:22px;line-height:22px;font-size:22px;font-weight:bold;float:left;width:80px;
+}
+.fl_arr span:nth-child(2)
+{
+  width:10px;
+}
+.fl_time span{
+    display: inline-block;
+    width:100%;
+    text-align: center;
+}
+.fl_time span:first-child{
+    color:#949494;
+}
+.fl_time span:last-child{
+    color:#00c16a;
+}
+.flightPrice {
+    float: left;
+    width:120px;
+    height:80px;
+    padding-top:30px;
+    margin-left:20px;
+}
+
+.flightPrice  span{
+    display: inline-block;
+    width:137px;
+    color:#ff812d;
+    text-align: right;
+    font-size:24px;
+}
+.flightPrice >span>label{
+    font-size:12px;
+} 
+.flightBtn{
+    float: left;
+    width:200px;
+    height:80px;
+}
+.flightBtn span{
+    display: inline-block;
+    width:100%;
+    text-align: center;
+}
+.flightBtn span:nth-child(1) button{
+        background: #00c16a;
+        color:#fff;
+}
+.flightBtn span:nth-child(2) {
+    font-size:12px;
+    color:#df3538;
+}
+.flightBtn span:nth-child(3) {
+    font-size:12px;
+    color:#0066cc;
+}
+.flight_name{
+    height:40px;
+    line-height: 40px;
+    padding-left:100px;
+}
+.flight_name span{
+    display: inline-block;
+    width:250px;
+    height:40px;
+    line-height: 40px;
+}
+
+.flight_name span:nth-child(1) img{
+    width:34px;
+    height:30px;
+    position: relative;
+    top:10px;
+}
+.flight__TimePlace{
+    padding:10px 0;
+    height:60px;
+    clear: both;
+}
+.flight__TimePlace div{
+    float: left;
+}
+.flight__time{
+    width:100px;
+    height:50px;
+    text-align: center;
+    line-height: 50px;
+}
+.SegmentingLine{
+    height:50px;
+    width:20px;
+}
+.SegmentingLine1{
+    width:20px;
+    height:30px;
+}
+.flight__place{
+    width:600px;
+}
+.flight__place div{
+    width:800px;
+    height:15px;
+}
+.flight__place__info span{
+    display: inline-block;
+    width:240px;
+}
+
+.transfer{
+    clear: both;
+    width:500px;
+    height:30px;
+    line-height: 30px;
+    background: #E4E4E4;
+}
+.transfer div{
+    float: left;
+}
+.transfer__time{
+    width:100px;
+    color:#df3538;
+    text-align: center;
+}
+.pnrBirthday {
+  width: 105px !important;
+  padding-right: 10px !important;
+}
+.pnrBirthday .el-input__inner{
+  padding-left:10px !important;
+}
+.pnrBirthday .el-input__prefix{
+  display: none !important;
+}
+.newPriceInput{
+  width:100px !important;
+}
+.newPriceSpan{
+  display: inline-block;
+  height: 16px;
+  line-height: 27px;
+}
+.newPriceTotil{
+  
+  width: 156px;
+  
+}
+.newPriceTotil  input{
+  width:150px;
+}
+.newPriceRemark{
+  width:658px;
+  height:40px;
+}
+.newPriceRemark>textarea{
+  width:658px;
+  height:40px;
+}
+.lookAttachments>a:hover{
+  color: #67c23a !important;
+}
+.longWord{
+  width:700px !important;
+  word-wrap:break-word;
+}
+#miit{
+  color:#888 !important;
+}
+

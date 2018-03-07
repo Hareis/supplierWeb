@@ -1,0 +1,112 @@
+{
+  "dev": {
+    "appenders": {
+      "console": {
+        "type": "console"
+      },
+      "file": {
+        "type": "dateFile",
+        "filename": "./appLog/buyerweb-{env}.log",
+        "pattern": ".yyyy-MM-dd",
+        "alwaysIncludePattern": true
+      },
+      "http": {
+        "type": "./lib/log4jsHttpAppender.js",
+        "layout": {
+          "type": "basic"
+        },
+        "protocol": "http:",
+        "host": "119.84.8.43",
+        "port": 13202,
+        "path": "/logging/add/v1",
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    },
+    "categories": {
+      "default": {
+        "appenders": [
+          "console",
+          "file",
+          "http"
+        ],
+        "level": "info"
+      }
+    }
+  },
+  "demo": {
+    "appenders": {
+      "console": {
+        "type": "console"
+      },
+      "file": {
+        "type": "dateFile",
+        "filename": "./appLog/buyerweb-{env}.log",
+        "pattern": ".yyyy-MM-dd",
+        "alwaysIncludePattern": true
+      },
+      "http": {
+        "type": "./lib/log4jsHttpAppender.js",
+        "layout": {
+          "type": "basic"
+        },
+        "protocol": "http:",
+        "host": "192.168.0.14",
+        "port": 8080,
+        "path": "/logging/add/v1",
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    },
+    "categories": {
+      "default": {
+        "appenders": [
+          "file",
+          "http"
+        ],
+        "level": "info"
+      }
+    },
+    "pm2": true,
+    "pm2InstanceVar": "INSTANCE_ID"
+  },
+  "prd": {
+    "appenders": {
+      "console": {
+        "type": "console"
+      },
+      "file": {
+        "type": "dateFile",
+        "filename": "/data/log/nodjs/buyerweb/buyerweb-{env}.log",
+        "pattern": ".yyyy-MM-dd",
+        "alwaysIncludePattern": true
+      },
+      "http": {
+        "type": "./lib/log4jsHttpAppender.js",
+        "layout": {
+          "type": "basic"
+        },
+        "protocol": "http:",
+        "host": "10.30.236.130",
+        "port": 4402,
+        "path": "/logging/add/v1",
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    },
+    "categories": {
+      "default": {
+        "appenders": [
+          "file",
+          "http"
+        ],
+        "level": "info"
+      }
+    },
+    "pm2": true,
+    "pm2InstanceVar": "INSTANCE_ID"
+  }
+}

@@ -1,0 +1,212 @@
+{
+    "listRes":
+    {
+        "status": 0,
+        "message": "success",
+        "totalRow":120,
+        "totalPage":12,
+        "orders":
+        [
+            {
+                "orderId" : "order_id",
+                "tripType" : 2,
+                "depCity" : "BJS",
+                "arrCity" : "HKG",
+                "depDate" : "2017-12-30",
+                "retDate" : "2018-01-06",
+                "adultNumber" : 1,
+                "childNumber": 0,
+                "segmentCount" : 3,
+        
+                "adultPrice": 800,
+                "adultTax": 66,
+                "childPrice": 400,
+                "childTax": 66,
+        
+                "nationality": "",
+                "forbiddenNationality": "",
+        
+        
+                "reservationType": "1E",
+                "productType" : "public",
+                "ticketLimittime" : "1", 
+                "invoiceType" : "E",
+                "validatingCarrier": "MU",
+        
+                "pnr" : "SBJOSL",
+                "supplierOrderId" : "supplier_order_id",
+        
+                "mainStatus" : 1, 
+                "subStatus" : 0,
+                "paymentType" : 1, 
+                "paymentTime" : "2017-12-30 16:50:30",
+                "paymentVoucher" : "2394", 
+        
+                "contactName" : "Wang/Erxiao",
+                "contactAddress": "Beijing Chaoyang",
+                "contactMobile": "8613821345678",
+                "contactEmail": "wangerxiao@hostmail.com",
+                "contactPostcode" : "90876",
+        
+                "passengers" : [
+        
+                    {
+                            "name": "JI/MINGMINGMS",
+                            "gender": "M",
+                            "ageType": 0,
+                            "birthday": "2001-02-01T00:00:00",
+                            "nationality": "CN",
+                            "cardType": "PP",
+                            "cardNum": "G234324",
+                            "cardExpired": "2018-11-07T00:00:00",
+                            "cardIssuePlace": "CN"
+                    }
+                ],
+        
+                "segments" : [
+                    {
+                        "itineraryIndex" : 1, 
+                        "segmentIndex" : 1,
+        
+                        "carrier" : "KE",
+                        "flightNumber" : "KE898",
+                        "aircraftCode": "777",
+                        "cabin": "B",
+                        "cabinGrade": "Y",
+                        "codeShare" : false,
+                        "depAirport" : "PVG",
+                        "arrAirport" : "ICN",
+                        "depTerminal": "1",
+                        "arrTerminal" : "3",
+                        "depDatetime": "2017-12-30 14:00:00",
+                        "arrDatetime": "2017-12-30 17:00:00",
+                        "duration": 190, 
+                        "stopTime" : 120 
+                    },
+                    {
+                        "itineraryIndex" : 2,
+                        "segmentIndex" : 1, 
+        
+                        "carrier" : "CA",
+                        "flightNumber" : "CA345",
+                        "aircraftCode": "777",
+                        "cabin": "B",
+                        "cabinGrade": "Y",
+                        "codeShare" : false,
+                        "depAirport" : "ICN",
+                        "arrAirport" : "PVG",
+                        "depTerminal": "1",
+                        "arrTerminal" : "3",
+                        "depDatetime": "2018-01-06 14:00:00",
+                        "arrDatetime": "2018-01-06 17:00:00",
+                        "duration": 190, 
+                        "stopTime" : 120 
+                    }
+                ]
+            }
+        ]
+    }
+    ,"payRes":
+    {
+        "status": 0, 
+        "message": "success",
+        "order":
+        {
+            "tripType" : 2, 
+            "depCity" : "BJS",
+            "arrCity" : "HKG",
+            "depDate" : "2017-12-30",
+            "retDate" : "2018-01-06",
+            "adultNumber" : 1,
+            "childNumber": 0,
+            "segmentCount" : 3,
+    
+            "adultPrice": 800,
+            "adultTax": 66,
+            "childPrice": 400,
+            "childTax": 66,
+    
+            "nationality": "",
+            "forbiddenNationality": "",
+    
+    
+            "reservationType": "1E",
+            "productType" : "public",
+            "ticketLimittime" : "1",
+            "invoiceType" : "E",
+            "validatingCarrier": "MU",
+    
+            "pnr" : "SBJOSL",
+            "supplierOrderId" : "supplier_order_id",
+            "orderId" : "uhe_order_id",
+    
+            "mainStatus" : 1, 
+            "subStatus" : 0,
+            "paymentType" : 1,
+            "paymentTime" : "2017-12-30 16:50:30",
+            "paymentVoucher" : "2394", 
+    
+            "contactName" : "Wang/Erxiao",
+            "contactAddress": "Beijing Chaoyang",
+            "contactMobile": "8613821345678",
+            "contactEmail": "wangerxiao@hostmail.com",
+            "contactPostcode" : "90876",
+    
+            "passengers" : [
+    
+                {
+                        "name": "JI/MINGMINGMS",
+                        "gender": "M",
+                        "ageType": 0,
+                        "birthday": "2001-02-01T00:00:00",
+                        "nationality": "CN",
+                        "cardType": "PP",
+                        "cardNum": "G234324",
+                        "cardExpired": "2018-11-07T00:00:00",
+                        "cardIssuePlace": "CN"
+                }
+            ],
+    
+            "segments" : [
+                {
+                    "itineraryIndex" : 1,
+                    "segmentIndex" : 1, 
+    
+                    "carrier" : "KE",
+                    "flightNumber" : "KE898",
+                    "aircraftCode": "777",
+                    "cabin": "B",
+                    "cabinGrade": "Y",
+                    "codeShare" : false,
+                    "depAirport" : "PVG",
+                    "arrAirport" : "ICN",
+                    "depTerminal": "1",
+                    "arrTerminal" : "3",
+                    "depDatetime": "2017-12-30 14:00:00",
+                    "arrDatetime": "2017-12-30 17:00:00",
+                    "duration": 190,
+                    "stopTime" : 120 
+                },
+                {
+                    "itineraryIndex" : 2, 
+                    "segmentIndex" : 1,
+    
+                    "carrier" : "CA",
+                    "flightNumber" : "CA345",
+                    "aircraftCode": "777",
+                    "cabin": "B",
+                    "cabinGrade": "Y",
+                    "codeShare" : false,
+                    "depAirport" : "ICN",
+                    "arrAirport" : "PVG",
+                    "depTerminal": "1",
+                    "arrTerminal" : "3",
+                    "depDatetime": "2018-01-06 14:00:00",
+                    "arrDatetime": "2018-01-06 17:00:00",
+                    "duration": 190, 
+                    "stopTime" : 120
+                }
+            ]
+        }
+    }
+}

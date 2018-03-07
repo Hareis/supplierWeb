@@ -1,0 +1,1 @@
+(cd ./server&&cnpm install)&&(pm2 startup;pm2 start ./pm2-prd.yml)

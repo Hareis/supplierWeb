@@ -1,0 +1,2062 @@
+{
+    "2J": {
+        "CnFName": "布基纳法索航空 ",
+        "TwCode": "2J",
+        "_id": "51a56fb1b7205213bc19f9c8"
+    },
+    "3D": {
+        "_id": "51a56fb1b7205213bc19f9c9",
+        "TwCode": "3D",
+        "CnFName": "代尼姆航空 "
+    },
+    "3Q": {
+        "_id": "51a56fb1b7205213bc19f9ca",
+        "TwCode": "3Q",
+        "CnFName": "中国云南航空 "
+    },
+    "3U": {
+        "_id": "51a56fb1b7205213bc19f9cb",
+        "TwCode": "3U",
+        "CnFName": "四川航空 "
+    },
+    "3V": {
+        "_id": "51a56fb1b7205213bc19f9cc",
+        "TwCode": "3V",
+        "CnFName": "天地空运"
+    },
+    "4M": {
+        "_id": "51a56fb1b7205213bc19f9cd",
+        "TwCode": "4M",
+        "CnFName": "多米尼加航空 "
+    },
+    "4Z": {
+        "_id": "51a56fb1b7205213bc19f9ce",
+        "TwCode": "4Z",
+        "CnFName": "南非支线航空 "
+    },
+    "5C": {
+        "_id": "51a56fb1b7205213bc19f9cf",
+        "TwCode": "5C",
+        "CnFName": "以色列货运航空 "
+    },
+    "5J": {
+        "_id": "51a56fb1b7205213bc19f9d0",
+        "TwCode": "5J",
+        "CnFName": "宿务航空 "
+    },
+    "5X": {
+        "_id": "51a56fb1b7205213bc19f9d1",
+        "TwCode": "5X",
+        "CnFName": "联合包裹运送服务 "
+    },
+    "5Y": {
+        "_id": "51a56fb1b7205213bc19f9d2",
+        "TwCode": "5Y",
+        "CnFName": "阿特拉斯航空 "
+    },
+    "6H": {
+        "_id": "51a56fb1b7205213bc19f9d3",
+        "TwCode": "6H",
+        "CnFName": "以斯雷航空"
+    },
+    "6U": {
+        "_id": "51a56fb1b7205213bc19f9d4",
+        "TwCode": "6U",
+        "CnFName": "乌克兰航空 "
+    },
+    "7B": {
+        "_id": "51a56fb1b7205213bc19f9d5",
+        "TwCode": "7B",
+        "CnFName": "克拉斯航空 "
+    },
+    "7Z": {
+        "_id": "51a56fb2b7205213bc19f9d6",
+        "TwCode": "7Z",
+        "CnFName": "莱克航空 （巴哈马）"
+    },
+    "8C": {
+        "_id": "51a56fb2b7205213bc19f9d7",
+        "TwCode": "8C",
+        "CnFName": "中国东星航空 "
+    },
+    "8L": {
+        "_id": "51a56fb2b7205213bc19f9d8",
+        "TwCode": "8L",
+        "CnFName": "云南祥鹏航空 责任 "
+    },
+    "8Q": {
+        "_id": "51a56fb2b7205213bc19f9d9",
+        "TwCode": "8Q",
+        "CnFName": "贝克航空 "
+    },
+    "8U": {
+        "_id": "51a56fb2b7205213bc19f9da",
+        "TwCode": "8U",
+        "CnFName": "阿弗里奇亚航空"
+    },
+    "9C": {
+        "_id": "51a56fb2b7205213bc19f9db",
+        "TwCode": "9C",
+        "CnFName": "春秋航空  "
+    },
+    "9R": {
+        "_id": "51a56fb2b7205213bc19f9dc",
+        "TwCode": "9R",
+        "CnFName": "布吉航空 "
+    },
+    "9U": {
+        "_id": "51a56fb2b7205213bc19f9dd",
+        "TwCode": "9U",
+        "CnFName": "摩尔多瓦航空 "
+    },
+    "9W": {
+        "_id": "51a56fb2b7205213bc19f9de",
+        "TwCode": "9W",
+        "CnFName": "印度捷特航空 "
+    },
+    "9Y": {
+        "_id": "51a56fb2b7205213bc19f9df",
+        "TwCode": "9Y",
+        "CnFName": "哈萨克斯坦航空 "
+    },
+    "A3": {
+        "_id": "51a56fb2b7205213bc19f9e0",
+        "TwCode": "A3",
+        "CnFName": "爱琴航空 "
+    },
+    "A4": {
+        "_id": "51a56fb2b7205213bc19f9e1",
+        "TwCode": "A4",
+        "CnFName": "南风航空 "
+    },
+    "A7": {
+        "_id": "51a56fb2b7205213bc19f9e2",
+        "TwCode": "A7",
+        "CnFName": "西班牙红风筝航空 "
+    },
+    "A9": {
+        "_id": "51a56fb2b7205213bc19f9e3",
+        "TwCode": "A9",
+        "CnFName": "格鲁吉亚航空"
+    },
+    "AA": {
+        "_id": "51a56fb2b7205213bc19f9e4",
+        "TwCode": "AA",
+        "CnFName": "美国航空 "
+    },
+    "AB": {
+        "_id": "51a56fb2b7205213bc19f9e5",
+        "TwCode": "AB",
+        "CnFName": "柏林航空 "
+    },
+    "AC": {
+        "_id": "51a56fb2b7205213bc19f9e6",
+        "TwCode": "AC",
+        "CnFName": "加拿大航空 "
+    },
+    "AE": {
+        "_id": "51a56fb2b7205213bc19f9e7",
+        "TwCode": "AE",
+        "CnFName": "华信航空 "
+    },
+    "AF": {
+        "_id": "51a56fb2b7205213bc19f9e8",
+        "TwCode": "AF",
+        "CnFName": "法国航空 "
+    },
+    "AG": {
+        "_id": "51a56fb2b7205213bc19f9e9",
+        "TwCode": "AG",
+        "CnFName": "亨廷货运航空 "
+    },
+    "AH": {
+        "_id": "51a56fb2b7205213bc19f9ea",
+        "TwCode": "AH",
+        "CnFName": "阿尔及利亚航空 "
+    },
+    "AI": {
+        "_id": "51a56fb2b7205213bc19f9eb",
+        "TwCode": "AI",
+        "CnFName": "印度航空 "
+    },
+    "AM": {
+        "_id": "51a56fb2b7205213bc19f9ec",
+        "TwCode": "AM",
+        "CnFName": "墨西哥航空 "
+    },
+    "AP": {
+        "_id": "51a56fb2b7205213bc19f9ed",
+        "TwCode": "AP",
+        "CnFName": "一号航空 "
+    },
+    "AQ": {
+        "_id": "51a56fb2b7205213bc19f9ee",
+        "TwCode": "AQ",
+        "CnFName": "阿洛哈航空 "
+    },
+    "AR": {
+        "_id": "51a56fb2b7205213bc19f9ef",
+        "TwCode": "AR",
+        "CnFName": "阿根廷航空 "
+    },
+    "AS": {
+        "_id": "51a56fb2b7205213bc19f9f0",
+        "TwCode": "AS",
+        "CnFName": "阿拉斯加航空"
+    },
+    "AT": {
+        "_id": "51a56fb2b7205213bc19f9f1",
+        "TwCode": "AT",
+        "CnFName": "摩洛哥皇家航空 "
+    },
+    "AU": {
+        "_id": "51a56fb2b7205213bc19f9f2",
+        "TwCode": "AU",
+        "CnFName": "奥斯特拉尔航空 "
+    },
+    "AV": {
+        "_id": "51a56fb2b7205213bc19f9f3",
+        "TwCode": "AV",
+        "CnFName": "哥伦比亚国家航空 "
+    },
+    "AY": {
+        "_id": "51a56fb2b7205213bc19f9f4",
+        "TwCode": "AY",
+        "CnFName": "芬兰航空 "
+    },
+    "AZ": {
+        "_id": "51a56fb2b7205213bc19f9f5",
+        "TwCode": "AZ",
+        "CnFName": "意大利航空 "
+    },
+    "B2": {
+        "_id": "51a56fb3b7205213bc19f9f6",
+        "TwCode": "B2",
+        "CnFName": "白俄罗斯航空 "
+    },
+    "B3": {
+        "_id": "51a56fb3b7205213bc19f9f7",
+        "TwCode": "B3",
+        "CnFName": "贝尔韦尤航空 "
+    },
+    "B7": {
+        "_id": "51a56fb3b7205213bc19f9f8",
+        "TwCode": "B7",
+        "CnFName": "立荣航空 "
+    },
+    "B8": {
+        "_id": "51a56fb3b7205213bc19f9f9",
+        "TwCode": "B8",
+        "CnFName": "厄立特里亚航空 "
+    },
+    "BA": {
+        "_id": "51a56fb3b7205213bc19f9fa",
+        "TwCode": "BA",
+        "CnFName": "英国航空 "
+    },
+    "BD": {
+        "_id": "51a56fb3b7205213bc19f9fb",
+        "TwCode": "BD",
+        "CnFName": "英国中部航空 "
+    },
+    "BE": {
+        "_id": "51a56fb3b7205213bc19f9fc",
+        "TwCode": "BE",
+        "CnFName": "弗莱比航空 "
+    },
+    "BG": {
+        "_id": "51a56fb3b7205213bc19f9fd",
+        "TwCode": "BG",
+        "CnFName": "孟加拉航空 "
+    },
+    "BI": {
+        "_id": "51a56fb3b7205213bc19f9fe",
+        "TwCode": "BI",
+        "CnFName": "文莱皇家航空 "
+    },
+    "BK": {
+        "_id": "51a56fb3b7205213bc19f9ff",
+        "TwCode": "BK",
+        "CnFName": "中国奥凯航空 "
+    },
+    "BL": {
+        "_id": "51a56fb3b7205213bc19fa00",
+        "TwCode": "BL",
+        "CnFName": "太平洋航空  "
+    },
+    "BN": {
+        "_id": "51a56fb3b7205213bc19fa01",
+        "TwCode": "BN",
+        "CnFName": "前进航空 "
+    },
+    "BP": {
+        "_id": "51a56fb3b7205213bc19fa02",
+        "TwCode": "BP",
+        "CnFName": "博茨瓦纳航空 "
+    },
+    "BR": {
+        "_id": "51a56fb3b7205213bc19fa03",
+        "TwCode": "BR",
+        "CnFName": "长荣航空 "
+    },
+    "BT": {
+        "_id": "51a56fb3b7205213bc19fa04",
+        "TwCode": "BT",
+        "CnFName": "波罗的海航空 "
+    },
+    "BU": {
+        "_id": "51a56fb3b7205213bc19fa05",
+        "TwCode": "BU",
+        "CnFName": "布拉森斯南美和远东空运 "
+    },
+    "BV": {
+        "_id": "51a56fb3b7205213bc19fa06",
+        "TwCode": "BV",
+        "CnFName": "意大利蓝天航空 "
+    },
+    "BW": {
+        "_id": "51a56fb3b7205213bc19fa07",
+        "TwCode": "BW",
+        "CnFName": "特多西印度航空 "
+    },
+    "C9": {
+        "_id": "51a56fb3b7205213bc19fa08",
+        "TwCode": "C9",
+        "CnFName": "锡鲁斯航空 "
+    },
+    "CA": {
+        "_id": "51a56fb3b7205213bc19fa09",
+        "TwCode": "CA",
+        "CnFName": "中国国际航空 "
+    },
+    "CE": {
+        "_id": "51a56fb3b7205213bc19fa0a",
+        "TwCode": "CE",
+        "CnFName": "南非国家航空 "
+    },
+    "CI": {
+        "_id": "51a56fb3b7205213bc19fa0b",
+        "TwCode": "CI",
+        "CnFName": "中华航空 "
+    },
+    "CK": {
+        "_id": "51a56fb3b7205213bc19fa0c",
+        "TwCode": "CK",
+        "CnFName": "中国货运航空 "
+    },
+    "CL": {
+        "_id": "51a56fb3b7205213bc19fa0d",
+        "TwCode": "CL",
+        "CnFName": "汉莎城市航空 "
+    },
+    "CM": {
+        "_id": "51a56fb3b7205213bc19fa0e",
+        "TwCode": "CM",
+        "CnFName": "巴拿马空运 "
+    },
+    "CO": {
+        "_id": "51a56fb3b7205213bc19fa0f",
+        "TwCode": "CO",
+        "CnFName": "美国大陆航空 "
+    },
+    "CP": {
+        "_id": "51a56fb3b7205213bc19fa10",
+        "TwCode": "CP",
+        "CnFName": "加拿大国际航空 "
+    },
+    "CS": {
+        "_id": "51a56fb3b7205213bc19fa11",
+        "TwCode": "CS",
+        "CnFName": "大陆密克罗尼西亚分 "
+    },
+    "CU": {
+        "_id": "51a56fb3b7205213bc19fa12",
+        "TwCode": "CU",
+        "CnFName": "古巴统一航空 "
+    },
+    "CV": {
+        "_id": "51a56fb3b7205213bc19fa13",
+        "TwCode": "CV",
+        "CnFName": "卢森堡国际货运航空 "
+    },
+    "CW": {
+        "_id": "51a56fb3b7205213bc19fa14",
+        "TwCode": "CW",
+        "CnFName": "马绍尔群岛航空 "
+    },
+    "CX": {
+        "_id": "51a56fb3b7205213bc19fa15",
+        "TwCode": "CX",
+        "CnFName": "国泰航空 "
+    },
+    "CY": {
+        "_id": "51a56fb4b7205213bc19fa16",
+        "TwCode": "CY",
+        "CnFName": "塞浦路斯航空 "
+    },
+    "CZ": {
+        "_id": "51a56fb4b7205213bc19fa17",
+        "TwCode": "CZ",
+        "CnFName": "中国南方航空 "
+    },
+    "D0": {
+        "_id": "51a56fb4b7205213bc19fa18",
+        "TwCode": "D0",
+        "CnFName": "敦豪航空 "
+    },
+    "D6": {
+        "_id": "51a56fb4b7205213bc19fa19",
+        "TwCode": "D6",
+        "CnFName": "南非英特航空 "
+    },
+    "DI": {
+        "_id": "51a56fb4b7205213bc19fa1a",
+        "TwCode": "DI",
+        "CnFName": "德英航空 "
+    },
+    "DJ": {
+        "_id": "51a56fb4b7205213bc19fa1b",
+        "TwCode": "DJ",
+        "CnFName": "维尔京蓝航空 "
+    },
+    "DL": {
+        "_id": "51a56fb4b7205213bc19fa1c",
+        "TwCode": "DL",
+        "CnFName": "达美航空 "
+    },
+    "DM": {
+        "_id": "51a56fb4b7205213bc19fa1d",
+        "TwCode": "DM",
+        "CnFName": "梅尔斯克航空 "
+    },
+    "DT": {
+        "_id": "51a56fb4b7205213bc19fa1e",
+        "TwCode": "DT",
+        "CnFName": "安哥拉航空 "
+    },
+    "DU": {
+        "_id": "51a56fb4b7205213bc19fa1f",
+        "TwCode": "DU",
+        "CnFName": "赫姆斯航空 "
+    },
+    "E3": {
+        "_id": "51a56fb4b7205213bc19fa20",
+        "TwCode": "E3",
+        "CnFName": "多莫杰多沃航空 "
+    },
+    "E4": {
+        "_id": "51a56fb4b7205213bc19fa21",
+        "TwCode": "E4",
+        "CnFName": "亚洲国际航空 "
+    },
+    "E5": {
+        "_id": "51a56fb4b7205213bc19fa22",
+        "TwCode": "E5",
+        "CnFName": "萨马拉航空 "
+    },
+    "E8": {
+        "_id": "51a56fb4b7205213bc19fa23",
+        "TwCode": "E8",
+        "CnFName": "阿尔卑斯鹰航空 "
+    },
+    "EA": {
+        "_id": "51a56fb4b7205213bc19fa24",
+        "TwCode": "EA",
+        "CnFName": "欧洲快运航空 "
+    },
+    "EF": {
+        "_id": "51a56fb4b7205213bc19fa25",
+        "TwCode": "EF",
+        "CnFName": "远东航空 "
+    },
+    "EI": {
+        "_id": "51a56fb4b7205213bc19fa26",
+        "TwCode": "EI",
+        "CnFName": "爱尔兰航空 "
+    },
+    "EK": {
+        "_id": "51a56fb4b7205213bc19fa27",
+        "TwCode": "EK",
+        "CnFName": "阿联酋航空 "
+    },
+    "EP": {
+        "_id": "51a56fb4b7205213bc19fa28",
+        "TwCode": "EP",
+        "CnFName": "伊朗阿森曼航空 "
+    },
+    "ES": {
+        "_id": "51a56fb4b7205213bc19fa29",
+        "TwCode": "ES",
+        "CnFName": "敦豪国际航空 "
+    },
+    "ET": {
+        "_id": "51a56fb4b7205213bc19fa2a",
+        "TwCode": "ET",
+        "CnFName": "埃塞俄比亚航空 "
+    },
+    "EU": {
+        "_id": "51a56fb4b7205213bc19fa2b",
+        "TwCode": "EU",
+        "CnFName": "成都航空  "
+    },
+    "EW": {
+        "_id": "51a56fb4b7205213bc19fa2c",
+        "TwCode": "EW",
+        "CnFName": "欧洲之翼航空 "
+    },
+    "EY": {
+        "_id": "51a56fb4b7205213bc19fa2d",
+        "TwCode": "EY",
+        "CnFName": "阿联酋阿提哈德航空 "
+    },
+    "F4": {
+        "_id": "51a56fb4b7205213bc19fa2e",
+        "TwCode": "F4",
+        "CnFName": "阿尔巴卡航空 "
+    },
+    "FA": {
+        "_id": "51a56fb4b7205213bc19fa2f",
+        "TwCode": "FA",
+        "CnFName": "空中联运航空 "
+    },
+    "FG": {
+        "_id": "51a56fb4b7205213bc19fa30",
+        "TwCode": "FG",
+        "CnFName": "阿里亚纳阿富汗航空 "
+    },
+    "FI": {
+        "_id": "51a56fb4b7205213bc19fa31",
+        "TwCode": "FI",
+        "CnFName": "冰岛航空 "
+    },
+    "FJ": {
+        "_id": "51a56fb4b7205213bc19fa32",
+        "TwCode": "FJ",
+        "CnFName": "太平洋航空 "
+    },
+    "FM": {
+        "_id": "51a56fb4b7205213bc19fa33",
+        "TwCode": "FM",
+        "CnFName": "上海航空 "
+    },
+    "FT": {
+        "_id": "51a56fb4b7205213bc19fa34",
+        "TwCode": "FT",
+        "CnFName": "暹粒国际航空 "
+    },
+    "FV": {
+        "_id": "51a56fb4b7205213bc19fa35",
+        "TwCode": "FV",
+        "CnFName": "普利科沃航空 "
+    },
+    "FX": {
+        "_id": "51a56fb5b7205213bc19fa36",
+        "TwCode": "FX",
+        "CnFName": "联邦快递"
+    },
+    "G3": {
+        "_id": "51a56fb5b7205213bc19fa37",
+        "TwCode": "G3",
+        "CnFName": "高尔运输航空 "
+    },
+    "G5": {
+        "_id": "51a56fb5b7205213bc19fa38",
+        "TwCode": "G5",
+        "CnFName": "华夏航空  "
+    },
+    "GA": {
+        "_id": "51a56fb5b7205213bc19fa39",
+        "TwCode": "GA",
+        "CnFName": "印度尼西亚航空 "
+    },
+    "GE": {
+        "_id": "51a56fb5b7205213bc19fa3a",
+        "TwCode": "GE",
+        "CnFName": "复兴航空 "
+    },
+    "GF": {
+        "_id": "51a56fb5b7205213bc19fa3b",
+        "TwCode": "GF",
+        "CnFName": "海湾航空 "
+    },
+    "GH": {
+        "_id": "51a56fb5b7205213bc19fa3c",
+        "TwCode": "GH",
+        "CnFName": "加纳航空 "
+    },
+    "GN": {
+        "_id": "51a56fb5b7205213bc19fa3d",
+        "TwCode": "GN",
+        "CnFName": "加蓬航空 "
+    },
+    "GS": {
+        "_id": "51a56fb5b7205213bc19fa3e",
+        "TwCode": "GS",
+        "CnFName": "大新华快运航空 "
+    },
+    "GT": {
+        "_id": "51a56fb5b7205213bc19fa3f",
+        "TwCode": "GT",
+        "CnFName": "直布罗陀航空 "
+    },
+    "HA": {
+        "_id": "51a56fb5b7205213bc19fa40",
+        "TwCode": "HA",
+        "CnFName": "夏威夷航空 "
+    },
+    "HF": {
+        "_id": "51a56fb5b7205213bc19fa41",
+        "TwCode": "HF",
+        "CnFName": "哈帕克劳埃德航空 "
+    },
+    "HM": {
+        "_id": "51a56fb5b7205213bc19fa42",
+        "TwCode": "HM",
+        "CnFName": "塞舌尔航空 "
+    },
+    "HO": {
+        "_id": "51a56fb5b7205213bc19fa43",
+        "TwCode": "HO",
+        "CnFName": "吉祥航空 "
+    },
+    "HP": {
+        "_id": "51a56fb5b7205213bc19fa44",
+        "TwCode": "HP",
+        "CnFName": "亚美利加西方航空 "
+    },
+    "HQ": {
+        "_id": "51a56fb5b7205213bc19fa45",
+        "TwCode": "HQ",
+        "CnFName": "国龙航空 "
+    },
+    "HR": {
+        "_id": "51a56fb5b7205213bc19fa46",
+        "TwCode": "HR",
+        "CnFName": "哈恩航空 "
+    },
+    "HU": {
+        "_id": "51a56fb5b7205213bc19fa47",
+        "TwCode": "HU",
+        "CnFName": "海南航空 "
+    },
+    "HX": {
+        "_id": "51a56fb5b7205213bc19fa48",
+        "TwCode": "HX",
+        "CnFName": "香港航空 "
+    },
+    "HY": {
+        "_id": "51a56fb5b7205213bc19fa49",
+        "TwCode": "HY",
+        "CnFName": "乌兹别克斯坦航空 "
+    },
+    "IA": {
+        "_id": "51a56fb5b7205213bc19fa4a",
+        "TwCode": "IA",
+        "CnFName": "伊拉克航空 "
+    },
+    "IB": {
+        "_id": "51a56fb5b7205213bc19fa4b",
+        "TwCode": "IB",
+        "CnFName": "西班牙航空 "
+    },
+    "IC": {
+        "_id": "51a56fb5b7205213bc19fa4c",
+        "TwCode": "IC",
+        "CnFName": "印度航空 "
+    },
+    "IG": {
+        "_id": "51a56fb5b7205213bc19fa4d",
+        "TwCode": "IG",
+        "CnFName": "默里迪恩纳航空 "
+    },
+    "IH": {
+        "_id": "51a56fb5b7205213bc19fa4e",
+        "TwCode": "IH",
+        "CnFName": "猎鹰航空 "
+    },
+    "IN": {
+        "_id": "51a56fb5b7205213bc19fa4f",
+        "TwCode": "IN",
+        "CnFName": "马其顿航空 "
+    },
+    "IR": {
+        "_id": "51a56fb5b7205213bc19fa50",
+        "TwCode": "IR",
+        "CnFName": "伊朗航空 "
+    },
+    "IT": {
+        "_id": "51a56fb5b7205213bc19fa51",
+        "TwCode": "IT",
+        "CnFName": "印度翠鸟航空 "
+    },
+    "IY": {
+        "_id": "51a56fb5b7205213bc19fa52",
+        "TwCode": "IY",
+        "CnFName": "也门航空 "
+    },
+    "IZ": {
+        "_id": "51a56fb5b7205213bc19fa53",
+        "TwCode": "IZ",
+        "CnFName": "阿基亚以色列航空 "
+    },
+    "J2": {
+        "_id": "51a56fb5b7205213bc19fa54",
+        "TwCode": "J2",
+        "CnFName": "阿塞拜疆航空 "
+    },
+    "JD": {
+        "_id": "51a56fb6b7205213bc19fa55",
+        "TwCode": "JD",
+        "CnFName": "北京首都航空  "
+    },
+    "JJ": {
+        "_id": "51a56fb6b7205213bc19fa56",
+        "TwCode": "JJ",
+        "CnFName": "巴西航空 "
+    },
+    "JK": {
+        "_id": "51a56fb6b7205213bc19fa57",
+        "TwCode": "JK",
+        "CnFName": "西班牙航空 "
+    },
+    "JL": {
+        "_id": "51a56fb6b7205213bc19fa58",
+        "TwCode": "JL",
+        "CnFName": "日本航空 "
+    },
+    "JM": {
+        "_id": "51a56fb6b7205213bc19fa59",
+        "TwCode": "JM",
+        "CnFName": "牙买加航空 "
+    },
+    "JO": {
+        "_id": "51a56fb6b7205213bc19fa5a",
+        "TwCode": "JO",
+        "CnFName": "日本包机 "
+    },
+    "JP": {
+        "_id": "51a56fb6b7205213bc19fa5b",
+        "TwCode": "JP",
+        "CnFName": "亚得利亚航空 "
+    },
+    "JR": {
+        "_id": "51a56fb6b7205213bc19fa5c",
+        "TwCode": "JR",
+        "CnFName": "幸福航空 责任 "
+    },
+    "JS": {
+        "_id": "51a56fb6b7205213bc19fa5d",
+        "TwCode": "JS",
+        "CnFName": "朝鲜高丽航空 "
+    },
+    "JU": {
+        "_id": "51a56fb6b7205213bc19fa5e",
+        "TwCode": "JU",
+        "CnFName": "南斯拉夫航空 "
+    },
+    "JZ": {
+        "_id": "51a56fb6b7205213bc19fa5f",
+        "TwCode": "JZ",
+        "CnFName": "空中之路航空 "
+    },
+    "K2": {
+        "_id": "51a56fb6b7205213bc19fa60",
+        "TwCode": "K2",
+        "CnFName": "吉尔吉斯坦国航空 "
+    },
+    "KA": {
+        "_id": "51a56fb6b7205213bc19fa61",
+        "TwCode": "KA",
+        "CnFName": "港龙航空 "
+    },
+    "KC": {
+        "_id": "51a56fb6b7205213bc19fa62",
+        "TwCode": "KC",
+        "CnFName": "阿斯塔那航空 "
+    },
+    "KE": {
+        "_id": "51a56fb6b7205213bc19fa63",
+        "TwCode": "KE",
+        "CnFName": "大韩航空 "
+    },
+    "KF": {
+        "_id": "51a56fb6b7205213bc19fa64",
+        "TwCode": "KF",
+        "CnFName": "博特尼亚航空 "
+    },
+    "KK": {
+        "_id": "51a56fb6b7205213bc19fa65",
+        "TwCode": "KK",
+        "CnFName": "阿特拉斯喷气航空  "
+    },
+    "KL": {
+        "_id": "51a56fb6b7205213bc19fa66",
+        "TwCode": "KL",
+        "CnFName": "荷兰皇家航空 "
+    },
+    "KM": {
+        "_id": "51a56fb6b7205213bc19fa67",
+        "TwCode": "KM",
+        "CnFName": "马耳他航空 "
+    },
+    "KN": {
+        "_id": "51a56fb6b7205213bc19fa68",
+        "TwCode": "KN",
+        "CnFName": "中国联合航空  "
+    },
+    "KQ": {
+        "_id": "51a56fb6b7205213bc19fa69",
+        "TwCode": "KQ",
+        "CnFName": "肯尼亚航空 "
+    },
+    "KR": {
+        "_id": "51a56fb6b7205213bc19fa6a",
+        "TwCode": "KR",
+        "CnFName": "基蒂霍克航空货运"
+    },
+    "KU": {
+        "_id": "51a56fb6b7205213bc19fa6b",
+        "TwCode": "KU",
+        "CnFName": "科威特航空 "
+    },
+    "KZ": {
+        "_id": "51a56fb6b7205213bc19fa6c",
+        "TwCode": "KZ",
+        "CnFName": "日本货运航空 "
+    },
+    "L4": {
+        "_id": "51a56fb6b7205213bc19fa6d",
+        "TwCode": "L4",
+        "CnFName": "劳达航空 "
+    },
+    "LA": {
+        "_id": "51a56fb6b7205213bc19fa6e",
+        "TwCode": "LA",
+        "CnFName": "智利国家航空 "
+    },
+    "LB": {
+        "_id": "51a56fb6b7205213bc19fa6f",
+        "TwCode": "LB",
+        "CnFName": "玻利维亚劳埃德航空 "
+    },
+    "LC": {
+        "_id": "51a56fb6b7205213bc19fa70",
+        "TwCode": "LC",
+        "CnFName": "加勒比航空 "
+    },
+    "LG": {
+        "_id": "51a56fb6b7205213bc19fa71",
+        "TwCode": "LG",
+        "CnFName": "卢森堡航空 "
+    },
+    "LH": {
+        "_id": "51a56fb6b7205213bc19fa72",
+        "TwCode": "LH",
+        "CnFName": "德国汉莎航空 "
+    },
+    "LJ": {
+        "_id": "51a56fb6b7205213bc19fa73",
+        "TwCode": "LJ",
+        "CnFName": "塞拉国家航空 "
+    },
+    "LK": {
+        "_id": "51a56fb6b7205213bc19fa74",
+        "TwCode": "LK",
+        "CnFName": "卢克索航空 "
+    },
+    "LN": {
+        "_id": "51a56fb7b7205213bc19fa75",
+        "TwCode": "LN",
+        "CnFName": "利比亚阿拉伯航空 "
+    },
+    "LO": {
+        "_id": "51a56fb7b7205213bc19fa76",
+        "TwCode": "LO",
+        "CnFName": "波兰航空 "
+    },
+    "LP": {
+        "_id": "51a56fb7b7205213bc19fa77",
+        "TwCode": "LP",
+        "CnFName": "秘鲁航空 "
+    },
+    "LQ": {
+        "_id": "51a56fb7b7205213bc19fa78",
+        "TwCode": "LQ",
+        "CnFName": "几内亚货运航空"
+    },
+    "LR": {
+        "_id": "51a56fb7b7205213bc19fa79",
+        "TwCode": "LR",
+        "CnFName": "哥斯达黎加航空 "
+    },
+    "LT": {
+        "_id": "51a56fb7b7205213bc19fa7a",
+        "TwCode": "LT",
+        "CnFName": "温特内曼国际航空 "
+    },
+    "LV": {
+        "_id": "51a56fb7b7205213bc19fa7b",
+        "TwCode": "LV",
+        "CnFName": "阿尔巴尼亚航空 "
+    },
+    "LX": {
+        "_id": "51a56fb7b7205213bc19fa7c",
+        "TwCode": "LX",
+        "CnFName": "瑞士航空 "
+    },
+    "LY": {
+        "_id": "51a56fb7b7205213bc19fa7d",
+        "TwCode": "LY",
+        "CnFName": "以色列航空 "
+    },
+    "MA": {
+        "_id": "51a56fb7b7205213bc19fa7e",
+        "TwCode": "MA",
+        "CnFName": "匈牙利航空 "
+    },
+    "MD": {
+        "_id": "51a56fb7b7205213bc19fa7f",
+        "TwCode": "MD",
+        "CnFName": "马达加斯加航空 "
+    },
+    "ME": {
+        "_id": "51a56fb7b7205213bc19fa80",
+        "TwCode": "ME",
+        "CnFName": "中东航空 "
+    },
+    "MF": {
+        "_id": "51a56fb7b7205213bc19fa81",
+        "TwCode": "MF",
+        "CnFName": "厦门航空 "
+    },
+    "MH": {
+        "_id": "51a56fb7b7205213bc19fa82",
+        "TwCode": "MH",
+        "CnFName": "马来西亚航空 "
+    },
+    "MI": {
+        "_id": "51a56fb7b7205213bc19fa83",
+        "TwCode": "MI",
+        "CnFName": "新加坡胜安航空 "
+    },
+    "MK": {
+        "_id": "51a56fb7b7205213bc19fa84",
+        "TwCode": "MK",
+        "CnFName": "毛里求斯航空 "
+    },
+    "MN": {
+        "_id": "51a56fb7b7205213bc19fa85",
+        "TwCode": "MN",
+        "CnFName": "商用航空 "
+    },
+    "MO": {
+        "_id": "51a56fb7b7205213bc19fa86",
+        "TwCode": "MO",
+        "CnFName": "静空国际航空 "
+    },
+    "MS": {
+        "_id": "51a56fb7b7205213bc19fa87",
+        "TwCode": "MS",
+        "CnFName": "埃及航空 "
+    },
+    "MU": {
+        "_id": "51a56fb7b7205213bc19fa88",
+        "TwCode": "MU",
+        "CnFName": "中国东方航空 "
+    },
+    "MV": {
+        "_id": "51a56fb7b7205213bc19fa89",
+        "TwCode": "MV",
+        "CnFName": "亚美尼亚国际航空 "
+    },
+    "MX": {
+        "_id": "51a56fb7b7205213bc19fa8a",
+        "TwCode": "MX",
+        "CnFName": "墨西哥航空 "
+    },
+    "NF": {
+        "_id": "51a56fb7b7205213bc19fa8b",
+        "TwCode": "NF",
+        "CnFName": "维加斯航空 "
+    },
+    "NG": {
+        "_id": "51a56fb7b7205213bc19fa8c",
+        "TwCode": "NG",
+        "CnFName": "劳达航空 "
+    },
+    "NH": {
+        "_id": "51a56fb7b7205213bc19fa8d",
+        "TwCode": "NH",
+        "CnFName": "全日空航空 "
+    },
+    "NI": {
+        "_id": "51a56fb7b7205213bc19fa8e",
+        "TwCode": "NI",
+        "CnFName": "葡萄牙航空 "
+    },
+    "NL": {
+        "_id": "51a56fb7b7205213bc19fa8f",
+        "TwCode": "NL",
+        "CnFName": "沙欣国际航空 "
+    },
+    "NM": {
+        "_id": "51a56fb7b7205213bc19fa90",
+        "TwCode": "NM",
+        "CnFName": "马德里航空 "
+    },
+    "NQ": {
+        "_id": "51a56fb7b7205213bc19fa91",
+        "TwCode": "NQ",
+        "CnFName": "日本航空 "
+    },
+    "NS": {
+        "_id": "51a56fb7b7205213bc19fa92",
+        "TwCode": "NS",
+        "CnFName": "河北航空 "
+    },
+    "NT": {
+        "_id": "51a56fb7b7205213bc19fa93",
+        "TwCode": "NT",
+        "CnFName": "加那利航空 "
+    },
+    "NW": {
+        "_id": "51a56fb7b7205213bc19fa94",
+        "TwCode": "NW",
+        "CnFName": "美国西北航空 "
+    },
+    "NX": {
+        "_id": "51a56fb8b7205213bc19fa95",
+        "TwCode": "NX",
+        "CnFName": "澳门航空 "
+    },
+    "NZ": {
+        "_id": "51a56fb8b7205213bc19fa96",
+        "TwCode": "NZ",
+        "CnFName": "新西兰航空 "
+    },
+    "OA": {
+        "_id": "51a56fb8b7205213bc19fa97",
+        "TwCode": "OA",
+        "CnFName": "希腊奥林匹克航空 "
+    },
+    "OK": {
+        "_id": "51a56fb8b7205213bc19fa98",
+        "TwCode": "OK",
+        "CnFName": "捷克斯洛伐克航空 "
+    },
+    "OM": {
+        "_id": "51a56fb8b7205213bc19fa99",
+        "TwCode": "OM",
+        "CnFName": "蒙古航空 "
+    },
+    "OQ": {
+        "_id": "51a56fb8b7205213bc19fa9a",
+        "TwCode": "OQ",
+        "CnFName": "重庆航空 "
+    },
+    "OS": {
+        "_id": "51a56fb8b7205213bc19fa9b",
+        "TwCode": "OS",
+        "CnFName": "奥地利航空 "
+    },
+    "OU": {
+        "_id": "51a56fb8b7205213bc19fa9c",
+        "TwCode": "OU",
+        "CnFName": "克罗地亚航空 "
+    },
+    "OV": {
+        "_id": "51a56fb8b7205213bc19fa9d",
+        "TwCode": "OV",
+        "CnFName": "爱沙尼亚航空 "
+    },
+    "OZ": {
+        "_id": "51a56fb8b7205213bc19fa9e",
+        "TwCode": "OZ",
+        "CnFName": "韩亚航空 "
+    },
+    "PF": {
+        "_id": "51a56fb8b7205213bc19fa9f",
+        "TwCode": "PF",
+        "CnFName": "巴勒斯坦航空 "
+    },
+    "PG": {
+        "_id": "51a56fb8b7205213bc19faa0",
+        "TwCode": "PG",
+        "CnFName": "曼谷航空 "
+    },
+    "PK": {
+        "_id": "51a56fb8b7205213bc19faa1",
+        "TwCode": "PK",
+        "CnFName": "巴基斯坦国际航空 "
+    },
+    "PN": {
+        "_id": "51a56fb8b7205213bc19faa2",
+        "TwCode": "PN",
+        "CnFName": "中国西部航空 "
+    },
+    "PR": {
+        "_id": "51a56fb8b7205213bc19faa3",
+        "TwCode": "PR",
+        "CnFName": "菲律宾航空 "
+    },
+    "PS": {
+        "_id": "51a56fb8b7205213bc19faa4",
+        "TwCode": "PS",
+        "CnFName": "乌克兰国际航空 "
+    },
+    "PU": {
+        "_id": "51a56fb8b7205213bc19faa5",
+        "TwCode": "PU",
+        "CnFName": "乌拉圭国家航空 "
+    },
+    "PW": {
+        "_id": "51a56fb8b7205213bc19faa6",
+        "TwCode": "PW",
+        "CnFName": "普雷西赛恩航空服务  "
+    },
+    "PX": {
+        "_id": "51a56fb8b7205213bc19faa7",
+        "TwCode": "PX",
+        "CnFName": "新几内亚航空 "
+    },
+    "PY": {
+        "_id": "51a56fb8b7205213bc19faa8",
+        "TwCode": "PY",
+        "CnFName": "苏里南航空 "
+    },
+    "PZ": {
+        "_id": "51a56fb8b7205213bc19faa9",
+        "TwCode": "PZ",
+        "CnFName": "地区航空运输 "
+    },
+    "Q3": {
+        "_id": "51a56fb8b7205213bc19faaa",
+        "TwCode": "Q3",
+        "CnFName": "赞比亚航空 "
+    },
+    "QF": {
+        "_id": "51a56fb8b7205213bc19faab",
+        "TwCode": "QF",
+        "CnFName": "澳洲航空 "
+    },
+    "QI": {
+        "_id": "51a56fb8b7205213bc19faac",
+        "TwCode": "QI",
+        "CnFName": "辛伯航空 "
+    },
+    "QM": {
+        "_id": "51a56fb8b7205213bc19faad",
+        "TwCode": "QM",
+        "CnFName": "马拉维航空 "
+    },
+    "QO": {
+        "_id": "51a56fb8b7205213bc19faae",
+        "TwCode": "QO",
+        "CnFName": "墨西哥联运航空 "
+    },
+    "QR": {
+        "_id": "51a56fb8b7205213bc19faaf",
+        "TwCode": "QR",
+        "CnFName": "卡塔尔航空 "
+    },
+    "QV": {
+        "_id": "51a56fb8b7205213bc19fab0",
+        "TwCode": "QV",
+        "CnFName": "老挝航空 "
+    },
+    "QW": {
+        "_id": "51a56fb8b7205213bc19fab1",
+        "TwCode": "QW",
+        "CnFName": "蓝翼航空 "
+    },
+    "QX": {
+        "_id": "51a56fb8b7205213bc19fab2",
+        "TwCode": "QX",
+        "CnFName": "地平线航空 "
+    },
+    "QY": {
+        "_id": "51a56fb8b7205213bc19fab3",
+        "TwCode": "QY",
+        "CnFName": "欧洲航空运输 "
+    },
+    "QZ": {
+        "_id": "51a56fb8b7205213bc19fab4",
+        "TwCode": "QZ",
+        "CnFName": "阿瓦国际航空 "
+    },
+    "RA": {
+        "_id": "51a56fb9b7205213bc19fab5",
+        "TwCode": "RA",
+        "CnFName": "尼泊尔皇家航空 "
+    },
+    "RB": {
+        "_id": "51a56fb9b7205213bc19fab6",
+        "TwCode": "RB",
+        "CnFName": "叙利亚阿拉伯航空 "
+    },
+    "RE": {
+        "_id": "51a56fb9b7205213bc19fab7",
+        "TwCode": "RE",
+        "CnFName": "阿伦航空 "
+    },
+    "RG": {
+        "_id": "51a56fb9b7205213bc19fab8",
+        "TwCode": "RG",
+        "CnFName": "巴西航空 "
+    },
+    "RJ": {
+        "_id": "51a56fb9b7205213bc19fab9",
+        "TwCode": "RJ",
+        "CnFName": "约旦皇家航空 "
+    },
+    "RO": {
+        "_id": "51a56fb9b7205213bc19faba",
+        "TwCode": "RO",
+        "CnFName": "罗马尼亚航空 "
+    },
+    "RV": {
+        "_id": "51a56fb9b7205213bc19fabb",
+        "TwCode": "RV",
+        "CnFName": "卡斯皮安航空 "
+    },
+    "S2": {
+        "_id": "51a56fb9b7205213bc19fabc",
+        "TwCode": "S2",
+        "CnFName": "撒哈拉航空 "
+    },
+    "S7": {
+        "_id": "51a56fb9b7205213bc19fabd",
+        "TwCode": "S7",
+        "CnFName": "俄罗斯西北利亚航空 "
+    },
+    "SA": {
+        "_id": "51a56fb9b7205213bc19fabe",
+        "TwCode": "SA",
+        "CnFName": "南非航空 "
+    },
+    "SB": {
+        "_id": "51a56fb9b7205213bc19fabf",
+        "TwCode": "SB",
+        "CnFName": "喀里多尼亚国际航空 "
+    },
+    "SC": {
+        "_id": "51a56fb9b7205213bc19fac0",
+        "TwCode": "SC",
+        "CnFName": "山东航空 "
+    },
+    "SD": {
+        "_id": "51a56fb9b7205213bc19fac1",
+        "TwCode": "SD",
+        "CnFName": "苏丹航空 "
+    },
+    "SF": {
+        "_id": "51a56fb9b7205213bc19fac2",
+        "TwCode": "SF",
+        "CnFName": "塔希里航空 "
+    },
+    "SK": {
+        "_id": "51a56fb9b7205213bc19fac3",
+        "TwCode": "SK",
+        "CnFName": "北欧航空 "
+    },
+    "SN": {
+        "_id": "51a56fb9b7205213bc19fac4",
+        "TwCode": "SN",
+        "CnFName": "布鲁塞尔航空 "
+    },
+    "SP": {
+        "_id": "51a56fb9b7205213bc19fac5",
+        "TwCode": "SP",
+        "CnFName": "亚速尔航空 "
+    },
+    "SQ": {
+        "_id": "51a56fb9b7205213bc19fac6",
+        "TwCode": "SQ",
+        "CnFName": "新加坡航空 "
+    },
+    "SR": {
+        "_id": "51a56fb9b7205213bc19fac7",
+        "TwCode": "SR",
+        "CnFName": "瑞士航空 "
+    },
+    "SS": {
+        "_id": "51a56fb9b7205213bc19fac8",
+        "TwCode": "SS",
+        "CnFName": "科西嘉航空 "
+    },
+    "SU": {
+        "_id": "51a56fb9b7205213bc19fac9",
+        "TwCode": "SU",
+        "CnFName": "俄罗斯航空 "
+    },
+    "SV": {
+        "_id": "51a56fb9b7205213bc19faca",
+        "TwCode": "SV",
+        "CnFName": "沙特阿拉伯航空 "
+    },
+    "SW": {
+        "_id": "51a56fb9b7205213bc19facb",
+        "TwCode": "SW",
+        "CnFName": "纳米比亚航空 "
+    },
+    "T4": {
+        "_id": "51a56fb9b7205213bc19facc",
+        "TwCode": "T4",
+        "CnFName": "赫拉斯喷气航空 "
+    },
+    "T5": {
+        "_id": "51a56fb9b7205213bc19facd",
+        "TwCode": "T5",
+        "CnFName": "土库曼斯坦航空 "
+    },
+    "TC": {
+        "_id": "51a56fb9b7205213bc19face",
+        "TwCode": "TC",
+        "CnFName": "坦桑尼亚航空 "
+    },
+    "TE": {
+        "_id": "51a56fb9b7205213bc19facf",
+        "TwCode": "TE",
+        "CnFName": "立陶宛航空 "
+    },
+    "TF": {
+        "_id": "51a56fb9b7205213bc19fad0",
+        "TwCode": "TF",
+        "CnFName": "马尔莫航空 "
+    },
+    "TG": {
+        "_id": "51a56fb9b7205213bc19fad1",
+        "TwCode": "TG",
+        "CnFName": "泰国航空 "
+    },
+    "TK": {
+        "_id": "51a56fb9b7205213bc19fad2",
+        "TwCode": "TK",
+        "CnFName": "土耳其航空 "
+    },
+    "TL": {
+        "_id": "51a56fbab7205213bc19fad3",
+        "TwCode": "TL",
+        "CnFName": "北方地区航空 "
+    },
+    "TM": {
+        "_id": "51a56fbab7205213bc19fad4",
+        "TwCode": "TM",
+        "CnFName": "莫桑比克航空 "
+    },
+    "TN": {
+        "_id": "51a56fbab7205213bc19fad5",
+        "TwCode": "TN",
+        "CnFName": "塔希提航空 "
+    },
+    "TP": {
+        "_id": "51a56fbab7205213bc19fad6",
+        "TwCode": "TP",
+        "CnFName": "葡萄牙航空 "
+    },
+    "TU": {
+        "_id": "51a56fbab7205213bc19fad7",
+        "TwCode": "TU",
+        "CnFName": "突尼斯航空 "
+    },
+    "U2": {
+        "_id": "51a56fbab7205213bc19fad8",
+        "TwCode": "U2",
+        "CnFName": "易捷航空 "
+    },
+    "U6": {
+        "_id": "51a56fbab7205213bc19fad9",
+        "TwCode": "U6",
+        "CnFName": "乌拉尔航空 "
+    },
+    "U8": {
+        "_id": "51a56fbab7205213bc19fada",
+        "TwCode": "U8",
+        "CnFName": "阿玛维亚航空 "
+    },
+    "UA": {
+        "_id": "51a56fbab7205213bc19fadb",
+        "TwCode": "UA",
+        "CnFName": "美国联合航空 "
+    },
+    "UB": {
+        "_id": "51a56fbab7205213bc19fadc",
+        "TwCode": "UB",
+        "CnFName": "缅甸国际航空 "
+    },
+    "UC": {
+        "_id": "51a56fbab7205213bc19fadd",
+        "TwCode": "UC",
+        "CnFName": "拉德科智利航空 "
+    },
+    "UL": {
+        "_id": "51a56fbab7205213bc19fade",
+        "TwCode": "UL",
+        "CnFName": "斯里兰卡航空 "
+    },
+    "UM": {
+        "_id": "51a56fbab7205213bc19fadf",
+        "TwCode": "UM",
+        "CnFName": "津巴布韦航空 "
+    },
+    "UN": {
+        "_id": "51a56fbab7205213bc19fae0",
+        "TwCode": "UN",
+        "CnFName": "环空航空"
+    },
+    "UO": {
+        "_id": "51a56fbab7205213bc19fae1",
+        "TwCode": "UO",
+        "CnFName": "香港快运航空 "
+    },
+    "US": {
+        "_id": "51a56fbab7205213bc19fae2",
+        "TwCode": "US",
+        "CnFName": "合众国航空 "
+    },
+    "UW": {
+        "_id": "51a56fbab7205213bc19fae3",
+        "TwCode": "UW",
+        "CnFName": "友和道通航空  "
+    },
+    "UX": {
+        "_id": "51a56fbab7205213bc19fae4",
+        "TwCode": "UX",
+        "CnFName": "西班牙欧洲航空"
+    },
+    "UY": {
+        "_id": "51a56fbab7205213bc19fae5",
+        "TwCode": "UY",
+        "CnFName": "喀麦隆航空 "
+    },
+    "V3": {
+        "_id": "51a56fbab7205213bc19fae6",
+        "TwCode": "V3",
+        "CnFName": "卡帕特航空"
+    },
+    "V7": {
+        "_id": "51a56fbab7205213bc19fae7",
+        "TwCode": "V7",
+        "CnFName": "塞内加尔国际航空 "
+    },
+    "VA": {
+        "_id": "51a56fbab7205213bc19fae8",
+        "TwCode": "VA",
+        "CnFName": "沃莱尔航空 "
+    },
+    "VD": {
+        "_id": "51a56fbab7205213bc19fae9",
+        "TwCode": "VD",
+        "CnFName": "鲲鹏航空  "
+    },
+    "VH": {
+        "_id": "51a56fbab7205213bc19faea",
+        "TwCode": "VH",
+        "CnFName": "珀斯塔尔航空 "
+    },
+    "VI": {
+        "_id": "51a56fbab7205213bc19faeb",
+        "TwCode": "VI",
+        "CnFName": "伏尔加第聂伯航空 "
+    },
+    "VJ": {
+        "_id": "51a56fbab7205213bc19faec",
+        "TwCode": "VJ",
+        "CnFName": "柬埔寨王国航空 "
+    },
+    "VK": {
+        "_id": "51a56fbab7205213bc19faed",
+        "TwCode": "VK",
+        "CnFName": "Virgin Nigeria"
+    },
+    "VN": {
+        "_id": "51a56fbab7205213bc19faee",
+        "TwCode": "VN",
+        "CnFName": "越南航空 "
+    },
+    "VP": {
+        "_id": "51a56fbab7205213bc19faef",
+        "TwCode": "VP",
+        "CnFName": "圣保罗航空 "
+    },
+    "VS": {
+        "_id": "51a56fbab7205213bc19faf0",
+        "TwCode": "VS",
+        "CnFName": "维珍航空 "
+    },
+    "VT": {
+        "_id": "51a56fbab7205213bc19faf1",
+        "TwCode": "VT",
+        "CnFName": "塔希提航空 "
+    },
+    "VV": {
+        "_id": "51a56fbab7205213bc19faf2",
+        "TwCode": "VV",
+        "CnFName": "乌克兰航空 "
+    },
+    "W5": {
+        "_id": "51a56fbbb7205213bc19faf3",
+        "TwCode": "W5",
+        "CnFName": "穆罕航空"
+    },
+    "W8": {
+        "_id": "51a56fbbb7205213bc19faf4",
+        "TwCode": "W8",
+        "CnFName": "喷射货机航空"
+    },
+    "WB": {
+        "_id": "51a56fbbb7205213bc19faf5",
+        "TwCode": "WB",
+        "CnFName": "卢旺达快运航空"
+    },
+    "WF": {
+        "_id": "51a56fbbb7205213bc19faf6",
+        "TwCode": "WF",
+        "CnFName": "威德罗航空 "
+    },
+    "WH": {
+        "_id": "51a56fbbb7205213bc19faf7",
+        "TwCode": "WH",
+        "CnFName": "中国西北航空 "
+    },
+    "WX": {
+        "_id": "51a56fbbb7205213bc19faf8",
+        "TwCode": "WX",
+        "CnFName": "安塞特快运 "
+    },
+    "WY": {
+        "_id": "51a56fbbb7205213bc19faf9",
+        "TwCode": "WY",
+        "CnFName": "阿曼航空 "
+    },
+    "XC": {
+        "_id": "51a56fbbb7205213bc19fafa",
+        "TwCode": "XC",
+        "CnFName": "KD航空"
+    },
+    "XF": {
+        "_id": "51a56fbbb7205213bc19fafb",
+        "TwCode": "XF",
+        "CnFName": "海参崴航空 "
+    },
+    "XK": {
+        "_id": "51a56fbbb7205213bc19fafc",
+        "TwCode": "XK",
+        "CnFName": "地中海科西嘉航空 "
+    },
+    "XL": {
+        "_id": "51a56fbbb7205213bc19fafd",
+        "TwCode": "XL",
+        "CnFName": "厄瓜多尔航空 "
+    },
+    "Y9": {
+        "_id": "51a56fbbb7205213bc19fafe",
+        "TwCode": "Y9",
+        "CnFName": "基什航空 "
+    },
+    "YW": {
+        "_id": "51a56fbbb7205213bc19faff",
+        "TwCode": "YW",
+        "CnFName": "纳斯绰航空 "
+    },
+    "Z9": {
+        "_id": "51a56fbbb7205213bc19fb00",
+        "TwCode": "Z9",
+        "CnFName": "赞比亚航空 "
+    },
+    "ZC": {
+        "_id": "51a56fbbb7205213bc19fb01",
+        "TwCode": "ZC",
+        "CnFName": "斯威士兰皇家航空 "
+    },
+    "ZE": {
+        "_id": "51a56fbbb7205213bc19fb02",
+        "TwCode": "ZE",
+        "CnFName": "阿兹台克航空 "
+    },
+    "ZH": {
+        "_id": "51a56fbbb7205213bc19fb03",
+        "TwCode": "ZH",
+        "CnFName": "深圳航空 "
+    },
+    "ZL": {
+        "_id": "51a56fbbb7205213bc19fb04",
+        "TwCode": "ZL",
+        "CnFName": "黑泽尔顿航空 "
+    },
+    "ZU": {
+        "_id": "51a56fbbb7205213bc19fb05",
+        "TwCode": "ZU",
+        "CnFName": "黑里奥斯航空 "
+    },
+    "0B": {
+        "_id": "5555",
+        "TwCode": "0B",
+        "CnFName": "蓝色航空"
+    },
+    "3K": {
+        "_id": "5555",
+        "TwCode": "3K",
+        "CnFName": "捷星亚洲航空"
+    },
+    "3L": {
+        "_id": "5555",
+        "TwCode": "3L",
+        "CnFName": "因特天空航空"
+    },
+    "3O": {
+        "_id": "5555",
+        "TwCode": "3O",
+        "CnFName": "摩洛哥阿拉伯航空"
+    },
+    "4O": {
+        "_id": "5555",
+        "TwCode": "4O",
+        "CnFName": "墨西哥Interjet航空"
+    },
+    "4U": {
+        "_id": "5555",
+        "TwCode": "4U",
+        "CnFName": "德国之翼航空"
+    },
+    "5B": {
+        "_id": "5555",
+        "TwCode": "5B",
+        "CnFName": "百善航空"
+    },
+    "5W": {
+        "_id": "5555",
+        "TwCode": "5W",
+        "CnFName": "westbahn管理航空有限公司"
+    },
+    "6E": {
+        "_id": "5555",
+        "TwCode": "6E",
+        "CnFName": "印地高航空"
+    },
+    "7C": {
+        "_id": "5555",
+        "TwCode": "7C",
+        "CnFName": "济州航空"
+    },
+    "A5": {
+        "_id": "5555",
+        "TwCode": "A5",
+        "CnFName": "法国HOP航空"
+    },
+    "AD": {
+        "_id": "5555",
+        "TwCode": "AD",
+        "CnFName": "巴西蔚蓝航空"
+    },
+    "AK": {
+        "_id": "5555",
+        "TwCode": "AK",
+        "CnFName": "马来西亚亚洲航空公司"
+    },
+    "B6": {
+        "_id": "5555",
+        "TwCode": "B6",
+        "CnFName": "美国捷蓝航空"
+    },
+    "BC": {
+        "_id": "5555",
+        "TwCode": "BC",
+        "CnFName": "天马航空"
+    },
+    "BY": {
+        "_id": "5555",
+        "TwCode": "BY",
+        "CnFName": "汤姆森航空公司"
+    },
+    "D7": {
+        "_id": "5555",
+        "TwCode": "D7",
+        "CnFName": "马来西亚亚洲航空长途公司"
+    },
+    "D8": {
+        "_id": "5555",
+        "TwCode": "D8",
+        "CnFName": "挪威国际航空"
+    },
+    "DD": {
+        "_id": "5555",
+        "TwCode": "DD",
+        "CnFName": "泰国皇雀航空"
+    },
+    "DG": {
+        "_id": "5555",
+        "TwCode": "DG",
+        "CnFName": "菲律宾东南亚航空"
+    },
+    "DS": {
+        "_id": "5555",
+        "TwCode": "DS",
+        "CnFName": "瑞士易捷航空"
+    },
+    "DY": {
+        "_id": "5555",
+        "TwCode": "DY",
+        "CnFName": "挪威航空"
+    },
+    "F7": {
+        "_id": "5555",
+        "TwCode": "F7",
+        "CnFName": "阿提哈德区域航空"
+    },
+    "F9": {
+        "_id": "5555",
+        "TwCode": "F9",
+        "CnFName": "美国边疆航空"
+    },
+    "FD": {
+        "_id": "5555",
+        "TwCode": "FD",
+        "CnFName": "泰国亚洲航空"
+    },
+    "FL": {
+        "_id": "5555",
+        "TwCode": "FL",
+        "CnFName": "穿越航空"
+    },
+    "FN": {
+        "_id": "5555",
+        "TwCode": "FN",
+        "CnFName": "坦桑尼亚Fast航空"
+    },
+    "FR": {
+        "_id": "5555",
+        "TwCode": "FR",
+        "CnFName": "瑞安航空"
+    },
+    "FY": {
+        "_id": "5555",
+        "TwCode": "FY",
+        "CnFName": "马来西亚飞萤航空"
+    },
+    "FZ": {
+        "_id": "5555",
+        "TwCode": "FZ",
+        "CnFName": "迪拜航空"
+    },
+    "G4": {
+        "_id": "5555",
+        "TwCode": "G4",
+        "CnFName": "美国忠实航空"
+    },
+    "G8": {
+        "_id": "5555",
+        "TwCode": "G8",
+        "CnFName": "印度GO AIR"
+    },
+    "G9": {
+        "_id": "5555",
+        "TwCode": "G9",
+        "CnFName": "阿拉伯航空"
+    },
+    "GK": {
+        "_id": "5555",
+        "TwCode": "GK",
+        "CnFName": "捷星日本"
+    },
+    "GR": {
+        "_id": "5555",
+        "TwCode": "GR",
+        "CnFName": "英国Aurigny航空"
+    },
+    "H2": {
+        "_id": "5555",
+        "TwCode": "H2",
+        "CnFName": "智利SKYLINE"
+    },
+    "HB": {
+        "_id": "5555",
+        "TwCode": "HB",
+        "CnFName": "亚洲大西洋航空"
+    },
+    "HG": {
+        "_id": "5555",
+        "TwCode": "HG",
+        "CnFName": "尼基航空"
+    },
+    "HV": {
+        "_id": "5555",
+        "TwCode": "HV",
+        "CnFName": "贯空航空"
+    },
+    "I4": {
+        "_id": "5555",
+        "TwCode": "I4",
+        "CnFName": "艾菲航空"
+    },
+    "I5": {
+        "_id": "5555",
+        "TwCode": "I5",
+        "CnFName": "印度亚洲航空公司"
+    },
+    "IJ": {
+        "_id": "5555",
+        "TwCode": "IJ",
+        "CnFName": "春秋航空日本"
+    },
+    "IX": {
+        "_id": "5555",
+        "TwCode": "IX",
+        "CnFName": "印度快递航空"
+    },
+    "J9": {
+        "_id": "5555",
+        "TwCode": "J9",
+        "CnFName": "半岛航空"
+    },
+    "JE": {
+        "_id": "5555",
+        "TwCode": "JE",
+        "CnFName": "芒果航空"
+    },
+    "JQ": {
+        "_id": "5555",
+        "TwCode": "JQ",
+        "CnFName": "捷星航空"
+    },
+    "JT": {
+        "_id": "5555",
+        "TwCode": "JT",
+        "CnFName": "印尼狮航"
+    },
+    "JW": {
+        "_id": "5555",
+        "TwCode": "JW",
+        "CnFName": "香草航空"
+    },
+    "JX": {
+        "_id": "5555",
+        "TwCode": "JX",
+        "CnFName": "DAC航空"
+    },
+    "LS": {
+        "_id": "5555",
+        "TwCode": "LS",
+        "CnFName": "杰特图航空"
+    },
+    "MJ": {
+        "_id": "5555",
+        "TwCode": "MJ",
+        "CnFName": "锡兰航空"
+    },
+    "MM": {
+        "_id": "5555",
+        "TwCode": "MM",
+        "CnFName": "日本乐桃航空"
+    },
+    "NK": {
+        "_id": "5555",
+        "TwCode": "NK",
+        "CnFName": "精神航空"
+    },
+    "NO": {
+        "_id": "5555",
+        "TwCode": "NO",
+        "CnFName": "意大利勒奥斯航空公司"
+    },
+    "OD": {
+        "_id": "5555",
+        "TwCode": "OD",
+        "CnFName": "马印航空"
+    },
+    "PC": {
+        "_id": "5555",
+        "TwCode": "PC",
+        "CnFName": "土耳其飞马航空"
+    },
+    "PD": {
+        "_id": "5555",
+        "TwCode": "PD",
+        "CnFName": "波特航空"
+    },
+    "PQ": {
+        "_id": "5555",
+        "TwCode": "PQ",
+        "CnFName": "菲律宾亚洲航空"
+    },
+    "Q6": {
+        "_id": "5555",
+        "TwCode": "Q6",
+        "CnFName": "沃拉里斯哥斯达黎加航空公司"
+    },
+    "QG": {
+        "_id": "5555",
+        "TwCode": "QG",
+        "CnFName": "连城航空"
+    },
+    "S8": {
+        "_id": "5555",
+        "TwCode": "S8",
+        "CnFName": "新西兰sounds air航空"
+    },
+    "SG": {
+        "_id": "5555",
+        "TwCode": "SG",
+        "CnFName": "印度香料航空"
+    },
+    "SL": {
+        "_id": "5555",
+        "TwCode": "SL",
+        "CnFName": "泰国狮航"
+    },
+    "SX": {
+        "_id": "5555",
+        "TwCode": "SX",
+        "CnFName": "瑞士skywork"
+    },
+    "T3": {
+        "_id": "5555",
+        "TwCode": "T3",
+        "CnFName": "英国东方航空公司"
+    },
+    "TO": {
+        "_id": "5555",
+        "TwCode": "TO",
+        "CnFName": "法国泛航航空"
+    },
+    "TR": {
+        "_id": "5555",
+        "TwCode": "TR",
+        "CnFName": "新加坡虎航"
+    },
+    "TS": {
+        "_id": "5555",
+        "TwCode": "TS",
+        "CnFName": "加拿大越洋航空"
+    },
+    "TT": {
+        "_id": "5555",
+        "TwCode": "TT",
+        "CnFName": "澳大利亚虎航"
+    },
+    "TW": {
+        "_id": "5555",
+        "TwCode": "TW",
+        "CnFName": "韩国德威航空"
+    },
+    "TZ": {
+        "_id": "5555",
+        "TwCode": "TZ",
+        "CnFName": "新加坡酷航"
+    },
+    "V9": {
+        "_id": "5555",
+        "TwCode": "V9",
+        "CnFName": "城市之翼航空"
+    },
+    "VB": {
+        "_id": "5555",
+        "TwCode": "VB",
+        "CnFName": "墨西哥Vivaaerobus航空"
+    },
+    "VF": {
+        "_id": "5555",
+        "TwCode": "VF",
+        "CnFName": "惠旅航空"
+    },
+    "VY": {
+        "_id": "5555",
+        "TwCode": "VY",
+        "CnFName": "西班牙伏林航空"
+    },
+    "VZ": {
+        "_id": "5555",
+        "TwCode": "VZ",
+        "CnFName": "泰国越捷航空公司"
+    },
+    "W6": {
+        "_id": "5555",
+        "TwCode": "W6",
+        "CnFName": "加威斯航空"
+    },
+    "WG": {
+        "_id": "5555",
+        "TwCode": "WG",
+        "CnFName": "太阳之翼航空公司"
+    },
+    "WN": {
+        "_id": "5555",
+        "TwCode": "WN",
+        "CnFName": "美国西南航空公司"
+    },
+    "WS": {
+        "_id": "5555",
+        "TwCode": "WS",
+        "CnFName": "加拿大WESTJET"
+    },
+    "WW": {
+        "_id": "5555",
+        "TwCode": "WW",
+        "CnFName": "冰岛Wow air"
+    },
+    "X3": {
+        "_id": "5555",
+        "TwCode": "X3",
+        "CnFName": "途易飞"
+    },
+    "XJ": {
+        "_id": "5555",
+        "TwCode": "XJ",
+        "CnFName": "泰国亚洲航空长途公司"
+    },
+    "XQ": {
+        "_id": "5555",
+        "TwCode": "XQ",
+        "CnFName": "土耳其SunExpress"
+    },
+    "XT": {
+        "_id": "5555",
+        "TwCode": "XT",
+        "CnFName": "印尼亚洲航空长途公司"
+    },
+    "XW": {
+        "_id": "5555",
+        "TwCode": "XW",
+        "CnFName": "泰国酷鸟航空"
+    },
+    "XY": {
+        "_id": "5555",
+        "TwCode": "XY",
+        "CnFName": "沙特FLYNAS航空"
+    },
+    "Y4": {
+        "_id": "5555",
+        "TwCode": "Y4",
+        "CnFName": "墨西哥VOLARIS"
+    },
+    "Y5": {
+        "_id": "5555",
+        "TwCode": "Y5",
+        "CnFName": "金缅甸航空"
+    },
+    "YB": {
+        "_id": "5555",
+        "TwCode": "YB",
+        "CnFName": "土耳其Borajet"
+    },
+    "YT": {
+        "_id": "5555",
+        "TwCode": "YT",
+        "CnFName": "YETIAIRLINES航空"
+    },
+    "Z2": {
+        "_id": "5555",
+        "TwCode": "Z2",
+        "CnFName": "菲律宾亚洲航空公司"
+    },
+    "ZB": {
+        "_id": "5555",
+        "TwCode": "ZB",
+        "CnFName": "君主航空"
+    },
+    "ZV": {
+        "_id": "5555",
+        "TwCode": "ZV",
+        "CnFName": "威航"
+    }
+}

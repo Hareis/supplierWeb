@@ -1,0 +1,1696 @@
+{
+  "CountryInfoList": [
+    {
+      "ChName": "中国大陆",
+      "EnName": "China",
+      "PinYin": "ZHONG GUO DA LU",
+      "CountryCode": "86",
+      "OpenSMS": "1",
+      "ShortEnName": "CN",
+      "ThreeCode":"CHN"
+    },
+    {
+      "ChName": "中国香港",
+      "EnName": "Hong Kong",
+      "PinYin": "ZHONG GUO XIANG GANG",
+      "CountryCode": "852",
+      "OpenSMS": "1",
+      "ShortEnName": "HK",
+      "ThreeCode":"HKG"
+    },
+    {
+      "ChName": "中国澳门",
+      "EnName": "Macao",
+      "PinYin": "ZHONG GUO AO MEN",
+      "CountryCode": "853",
+      "OpenSMS": "1",
+      "ShortEnName": "MO",
+      "ThreeCode":"MFM"
+    },
+    {
+      "ChName": "中国台湾",
+      "EnName": "Taiwan",
+      "PinYin": "ZHONG GUO TAI WAN",
+      "CountryCode": "886",
+      "OpenSMS": "1",
+      "ShortEnName": "TW",
+      "ThreeCode":"TWN"
+    },
+    {
+      "ChName": "加拿大",
+      "EnName": "Canada",
+      "PinYin": "JIA NA DA",
+      "CountryCode": "1",
+      "OpenSMS": "1",
+      "ShortEnName": "CA",
+      "ThreeCode":"CAN"
+    },
+    {
+      "ChName": "美国",
+      "EnName": "United States",
+      "PinYin": "MEI GUO",
+      "CountryCode": "1",
+      "OpenSMS": "1",
+      "ShortEnName": "US",
+      "ThreeCode": "USA"
+    },
+    {
+      "ChName": "俄罗斯",
+      "EnName": "Russia",
+      "PinYin": "E LUO SI",
+      "CountryCode": "7",
+      "OpenSMS": "1",
+      "ShortEnName": "RU",
+      "ThreeCode": "RUS"
+    },
+    {
+      "ChName": "法国",
+      "EnName": "France",
+      "PinYin": "FA GUO",
+      "CountryCode": "33",
+      "OpenSMS": "1",
+      "ShortEnName": "FR",
+      "ThreeCode": "FRA"
+    },
+    {
+      "ChName": "意大利",
+      "EnName": "Italy",
+      "PinYin": "YI DA LI ",
+      "CountryCode": "39",
+      "OpenSMS": "1",
+      "ShortEnName": "IT",
+      "ThreeCode": "ITA"
+    },
+    {
+      "ChName": "英国",
+      "EnName": "United Kingdom",
+      "PinYin": "YING GUO",
+      "CountryCode": "44",
+      "OpenSMS": "1",
+      "ShortEnName": "GB",
+      "ThreeCode": "GBR"
+    },
+    {
+      "ChName": "德国",
+      "EnName": "Germany",
+      "PinYin": "DE GUO",
+      "CountryCode": "49",
+      "OpenSMS": "1",
+      "ShortEnName": "DE",
+      "ThreeCode": "DEU"
+    },
+    {
+      "ChName": "马来西亚",
+      "EnName": "Malaysia",
+      "PinYin": "MA LAI XI YA",
+      "CountryCode": "60",
+      "OpenSMS": "1",
+      "ShortEnName": "MY",
+      "ThreeCode": "MYS"
+    },
+    {
+      "ChName": "澳大利亚",
+      "EnName": "Australia",
+      "PinYin": "AO DA LI YA",
+      "CountryCode": "61",
+      "OpenSMS": "1",
+      "ShortEnName": "AU",
+      "ThreeCode": "AUS"
+    },
+    {
+      "ChName": "印度尼西亚",
+      "EnName": "Indonesia",
+      "PinYin": "YIN DU NI XI YA",
+      "CountryCode": "62",
+      "OpenSMS": "1",
+      "ShortEnName": "ID",
+      "ThreeCode": "IDN"
+    },
+    {
+      "ChName": "菲律宾",
+      "EnName": "Philippines",
+      "PinYin": "FEI LV BIN",
+      "CountryCode": "63",
+      "OpenSMS": "1",
+      "ShortEnName": "PH",
+      "ThreeCode": "PHL"
+    },
+    {
+      "ChName": "新西兰",
+      "EnName": "New Zealand",
+      "PinYin": "XIN XI LAN",
+      "CountryCode": "64",
+      "OpenSMS": "1",
+      "ShortEnName": "NZ",
+      "ThreeCode": "NZL"
+    },
+    {
+      "ChName": "新加坡",
+      "EnName": "Singapore",
+      "PinYin": "XIN JIA PO",
+      "CountryCode": "65",
+      "OpenSMS": "1",
+      "ShortEnName": "SG",
+      "ThreeCode": "SGP"
+    },
+    {
+      "ChName": "泰国",
+      "EnName": "Thailand",
+      "PinYin": "TAI GUO",
+      "CountryCode": "66",
+      "OpenSMS": "1",
+      "ShortEnName": "TH",
+      "ThreeCode": "THA"
+    },
+    {
+      "ChName": "日本",
+      "EnName": "Japan",
+      "PinYin": "RI BEN",
+      "CountryCode": "81",
+      "OpenSMS": "1",
+      "ShortEnName": "JP",
+      "ThreeCode": "JPN"
+    },
+    {
+      "ChName": "韩国",
+      "EnName": "South Korea",
+      "PinYin": "HAN GUO",
+      "CountryCode": "82",
+      "OpenSMS": "1",
+      "ShortEnName": "KR",
+      "ThreeCode": "KOR"
+    },
+    {
+      "ChName": "越南",
+      "EnName": "Viet Nam",
+      "PinYin": "YUE NAN",
+      "CountryCode": "84",
+      "OpenSMS": "1",
+      "ShortEnName": "VN",
+      "ThreeCode": "VNM"
+    },
+    {
+      "ChName": "印度",
+      "EnName": "India",
+      "PinYin": "YIN DU",
+      "CountryCode": "91",
+      "OpenSMS": "1",
+      "ShortEnName": "IN",
+      "ThreeCode": "IND"
+    },
+    {
+      "ChName": "柬埔寨",
+      "EnName": "Cambodia",
+      "PinYin": "JIAN PU ZHAI",
+      "CountryCode": "855",
+      "OpenSMS": "1",
+      "ShortEnName": "KH",
+      "ThreeCode": "KHM"
+    },
+    {
+      "ChName": "阿尔巴尼亚",
+      "EnName": "Albania",
+      "PinYin": "A ER BA NI YA",
+      "CountryCode": "355",
+      "OpenSMS": "0",
+      "ShortEnName": "AL",
+      "ThreeCode": "ALB"
+    },
+    {
+      "ChName": "阿尔及利亚",
+      "EnName": "Algeria",
+      "PinYin": "A ER JI LI YA",
+      "CountryCode": "213",
+      "OpenSMS": "0",
+      "ShortEnName": "DZ",
+      "ThreeCode": "DZA"
+    },
+    {
+      "ChName": "阿富汗",
+      "EnName": "Afghanistan",
+      "PinYin": "A FU HAN",
+      "CountryCode": "93",
+      "OpenSMS": "0",
+      "ShortEnName": "AF",
+      "ThreeCode": "AFG"
+    },
+    {
+      "ChName": "阿根廷",
+      "EnName": "Argentina",
+      "PinYin": "A GEN TING",
+      "CountryCode": "54",
+      "OpenSMS": "0",
+      "ShortEnName": "AR",
+      "ThreeCode": "ARG"
+    },
+    {
+      "ChName": "阿联酋",
+      "EnName": "United Arab Emirates",
+      "PinYin": "A LA BO LIAN HE QIU ZHANG GUO",
+      "CountryCode": "971",
+      "OpenSMS": "1",
+      "ShortEnName": "AE",
+      "ThreeCode": "ARE"
+    },
+    {
+      "ChName": "阿曼",
+      "EnName": "Oman",
+      "PinYin": "A MAN",
+      "CountryCode": "968",
+      "OpenSMS": "0",
+      "ShortEnName": "OM",
+      "ThreeCode": "OMN"
+    },
+    {
+      "ChName": "阿塞拜疆",
+      "EnName": "Azerbaijan",
+      "PinYin": "A SAI BAI JIANG",
+      "CountryCode": "994",
+      "OpenSMS": "0",
+      "ShortEnName": "AZ",
+      "ThreeCode": "AZE"
+    },
+    {
+      "ChName": "埃及",
+      "EnName": "Egypt",
+      "PinYin": "AI JI",
+      "CountryCode": "20",
+      "OpenSMS": "0",
+      "ShortEnName": "EG",
+      "ThreeCode": "EGY"
+    },
+    {
+      "ChName": "埃塞俄比亚",
+      "EnName": "Ethiopia",
+      "PinYin": "AI SAI E BI YA",
+      "CountryCode": "251",
+      "OpenSMS": "0",
+      "ShortEnName": "ET",
+      "ThreeCode": "ETH"
+    },
+    {
+      "ChName": "爱尔兰",
+      "EnName": "Ireland",
+      "PinYin": "AI ER LAN",
+      "CountryCode": "353",
+      "OpenSMS": "1",
+      "ShortEnName": "IE",
+      "ThreeCode": "IRL"
+    },
+    {
+      "ChName": "爱沙尼亚",
+      "EnName": "Estonia",
+      "PinYin": "AI SHA NI YA",
+      "CountryCode": "372",
+      "OpenSMS": "0",
+      "ShortEnName": "EE",
+      "ThreeCode": "EST"
+    },
+    {
+      "ChName": "安道尔",
+      "EnName": "Andorra",
+      "PinYin": "AN DAO ER GONG HE GUO",
+      "CountryCode": "376",
+      "OpenSMS": "0",
+      "ShortEnName": "AD",
+      "ThreeCode": "AND"
+    },
+    {
+      "ChName": "安哥拉",
+      "EnName": "Angola",
+      "PinYin": "AN GE LA",
+      "CountryCode": "244",
+      "OpenSMS": "0",
+      "ShortEnName": "AO",
+      "ThreeCode": "AGO"
+    },
+    {
+      "ChName": "安提瓜和巴布达",
+      "EnName": "Antigua and barbuda",
+      "PinYin": "AN TI GUA HE BA BU DA",
+      "CountryCode": "1268",
+      "OpenSMS": "0",
+      "ShortEnName": "AG",
+      "ThreeCode": "ATG"
+    },
+    {
+      "ChName": "奥地利",
+      "EnName": "Austria",
+      "PinYin": "AO DI LI",
+      "CountryCode": "43",
+      "OpenSMS": "1",
+      "ShortEnName": "AT",
+      "ThreeCode": "AUT"
+    },
+    {
+      "ChName": "巴巴多斯",
+      "EnName": "Barbados",
+      "PinYin": "BA BA DUO SI",
+      "CountryCode": "1246",
+      "OpenSMS": "0",
+      "ShortEnName": "BB",
+      "ThreeCode": "BRB"
+    },
+    {
+      "ChName": "巴布亚新几内亚",
+      "EnName": "Papua New Guinea",
+      "PinYin": "BA BU YA XIN JI NEI YA",
+      "CountryCode": "675",
+      "OpenSMS": "0",
+      "ShortEnName": "PG",
+      "ThreeCode": "PNG"
+    },
+    {
+      "ChName": "巴哈马",
+      "EnName": "Bahamas",
+      "PinYin": "BA  HA MA",
+      "CountryCode": "1242",
+      "OpenSMS": "0",
+      "ShortEnName": "BS",
+      "ThreeCode": "BHS"
+    },
+    {
+      "ChName": "巴基斯坦",
+      "EnName": "Pakistan",
+      "PinYin": "BA JI SI TAN",
+      "CountryCode": "92",
+      "OpenSMS": "0",
+      "ShortEnName": "PK",
+      "ThreeCode": "PAK"
+    },
+    {
+      "ChName": "巴拉圭",
+      "EnName": "Paraguay",
+      "PinYin": "BA LA GUI",
+      "CountryCode": "595",
+      "OpenSMS": "0",
+      "ShortEnName": "PY",
+      "ThreeCode": "PRY"
+    },
+    {
+      "ChName": "巴勒斯坦",
+      "EnName": "Palestine",
+      "PinYin": "BA LE SI TAN",
+      "CountryCode": "970",
+      "OpenSMS": "0",
+      "ShortEnName": "PS",
+      "ThreeCode": "PSE"
+    },
+    {
+      "ChName": "巴林",
+      "EnName": "Bahrain",
+      "PinYin": "BA LIN",
+      "CountryCode": "973",
+      "OpenSMS": "0",
+      "ShortEnName": "BH",
+      "ThreeCode": "BHR"
+    },
+    {
+      "ChName": "巴拿马",
+      "EnName": "Panama",
+      "PinYin": "BA NA MA",
+      "CountryCode": "507",
+      "OpenSMS": "0",
+      "ShortEnName": "PA",
+      "ThreeCode": "PAN"
+    },
+    {
+      "ChName": "巴西",
+      "EnName": "Brazil",
+      "PinYin": "BA XI",
+      "CountryCode": "55",
+      "OpenSMS": "0",
+      "ShortEnName": "BR",
+      "ThreeCode": "BRA"
+    },
+    {
+      "ChName": "白俄罗斯",
+      "EnName": "Belarus",
+      "PinYin": "BAI E LUO SI",
+      "CountryCode": "375",
+      "OpenSMS": "0",
+      "ShortEnName": "BY",
+      "ThreeCode": "BLR"
+    },
+    {
+      "ChName": "保加利亚",
+      "EnName": "Bulgaria",
+      "PinYin": "BAO JIA LI YA",
+      "CountryCode": "359",
+      "OpenSMS": "0",
+      "ShortEnName": "BG",
+      "ThreeCode": "BGR"
+    },
+    {
+      "ChName": "贝宁",
+      "EnName": "Benin",
+      "PinYin": "BEI NING",
+      "CountryCode": "229",
+      "OpenSMS": "0",
+      "ShortEnName": "BJ",
+      "ThreeCode": "BEN"
+    },
+    {
+      "ChName": "比利时",
+      "EnName": "Belgium",
+      "PinYin": "BI LI SHI",
+      "CountryCode": "32",
+      "OpenSMS": "1",
+      "ShortEnName": "BE",
+      "ThreeCode": "BEL"
+    },
+    {
+      "ChName": "冰岛",
+      "EnName": "Iceland",
+      "PinYin": "BING DAO ",
+      "CountryCode": "354",
+      "OpenSMS": "0",
+      "ShortEnName": "IS",
+      "ThreeCode": "ISL"
+    },
+    {
+      "ChName": "波多黎各",
+      "EnName": "Puerto Rico",
+      "PinYin": "BO DUO LI GE",
+      "CountryCode": "1787",
+      "OpenSMS": "0",
+      "ShortEnName": "PR",
+      "ThreeCode": "PRT"
+    },
+    {
+      "ChName": "波兰",
+      "EnName": "Poland",
+      "PinYin": "BO LAN",
+      "CountryCode": "48",
+      "OpenSMS": "0",
+      "ShortEnName": "PL",
+      "ThreeCode": "POL"
+    },
+    {
+      "ChName": "波斯尼亚和黑塞哥维那",
+      "EnName": "Bosnia and Herzegovina",
+      "PinYin": "BO SI NI YA HE HEI SAI GE WEI NA",
+      "CountryCode": "387",
+      "OpenSMS": "0",
+      "ShortEnName": "BA",
+      "ThreeCode": "BIH"
+    },
+    {
+      "ChName": "玻利维亚",
+      "EnName": "Bolivia",
+      "PinYin": "BO LI WEI YA",
+      "CountryCode": "591",
+      "OpenSMS": "0",
+      "ShortEnName": "BO",
+      "ThreeCode": "BOL"
+    },
+    {
+      "ChName": "伯利兹",
+      "EnName": "Belize",
+      "PinYin": "BO LI ZI",
+      "CountryCode": "501",
+      "OpenSMS": "0",
+      "ShortEnName": "BZ",
+      "ThreeCode": "BIZ"
+    },
+    {
+      "ChName": "不丹",
+      "EnName": "Bhutan",
+      "PinYin": "BU DAN",
+      "CountryCode": "975",
+      "OpenSMS": "0",
+      "ShortEnName": "BT",
+      "ThreeCode": "BTN"
+    },
+    {
+      "ChName": "布基纳法索",
+      "EnName": "Burkina Faso",
+      "PinYin": "BU JI NA FA SUO",
+      "CountryCode": "226",
+      "OpenSMS": "0",
+      "ShortEnName": "BF",
+      "ThreeCode": "BFA"
+    },
+    {
+      "ChName": "布隆迪",
+      "EnName": "Burundi",
+      "PinYin": "BU LONG DI",
+      "CountryCode": "257",
+      "OpenSMS": "0",
+      "ShortEnName": "BI",
+      "ThreeCode": "BDI"
+    },
+    {
+      "ChName": "朝鲜",
+      "EnName": "Korea, Democratic Pe",
+      "PinYin": "CHAO XIAN",
+      "CountryCode": "850",
+      "OpenSMS": "0",
+      "ShortEnName": "KP",
+      "ThreeCode": "PRK"
+    },
+    {
+      "ChName": "赤道几内亚",
+      "EnName": "Equatorial Guinea",
+      "PinYin": "CHI DAO JI NEI YA",
+      "CountryCode": "240",
+      "OpenSMS": "0",
+      "ShortEnName": "GQ",
+      "ThreeCode": "GNQ"
+    },
+    {
+      "ChName": "丹麦",
+      "EnName": "Denmark",
+      "PinYin": "DAN MAI",
+      "CountryCode": "45",
+      "OpenSMS": "1",
+      "ShortEnName": "DK",
+      "ThreeCode": "DNK"
+    },
+    {
+      "ChName": "多哥",
+      "EnName": "Togo",
+      "PinYin": "DUO GE",
+      "CountryCode": "228",
+      "OpenSMS": "0",
+      "ShortEnName": "TG",
+      "ThreeCode": "TGO"
+    },
+    {
+      "ChName": "多米尼加共和国",
+      "EnName": "Dominican Republic",
+      "PinYin": "DUO MI NI JIA GONG HE GUO",
+      "CountryCode": "1809",
+      "OpenSMS": "0",
+      "ShortEnName": "DO",
+      "ThreeCode": "DOM"
+    },
+    {
+      "ChName": "厄瓜多尔",
+      "EnName": "Ecuador",
+      "PinYin": "E GUA DUO ER",
+      "CountryCode": "593",
+      "OpenSMS": "0",
+      "ShortEnName": "EC",
+      "ThreeCode": "ECU"
+    },
+    {
+      "ChName": "厄立特里亚",
+      "EnName": "Eritrea",
+      "PinYin": "E LI TE LI YA",
+      "CountryCode": "291",
+      "OpenSMS": "0",
+      "ShortEnName": "ER",
+      "ThreeCode": "ERI"
+    },
+    {
+      "ChName": "斐济",
+      "EnName": "Fiji",
+      "PinYin": "FEI JI",
+      "CountryCode": "679",
+      "OpenSMS": "0",
+      "ShortEnName": "FJ",
+      "ThreeCode": "FJI"
+    },
+    {
+      "ChName": "芬兰",
+      "EnName": "Finland",
+      "PinYin": "FEN LAN",
+      "CountryCode": "358",
+      "OpenSMS": "0",
+      "ShortEnName": "FI",
+      "ThreeCode": "FIN"
+    },
+    {
+      "ChName": "冈比亚",
+      "EnName": "Gambia",
+      "PinYin": "GANG BI YA",
+      "CountryCode": "220",
+      "OpenSMS": "0",
+      "ShortEnName": "GM",
+      "ThreeCode": "GMB"
+    },
+    {
+      "ChName": "刚果共和国",
+      "EnName": "Congo",
+      "PinYin": "GANG GUO",
+      "CountryCode": "242",
+      "OpenSMS": "0",
+      "ShortEnName": "CG",
+      "ThreeCode": "COG"
+    },
+    {
+      "ChName": "哥伦比亚",
+      "EnName": "Colombia",
+      "PinYin": "GE LUN BI YA",
+      "CountryCode": "57",
+      "OpenSMS": "0",
+      "ShortEnName": "CO",
+      "ThreeCode": "COL"
+    },
+    {
+      "ChName": "哥斯达黎加",
+      "EnName": "Costa Rica",
+      "PinYin": "GE SI DA LI JIA",
+      "CountryCode": "506",
+      "OpenSMS": "0",
+      "ShortEnName": "CR",
+      "ThreeCode": "CRI"
+    },
+    {
+      "ChName": "格林纳达",
+      "EnName": "Grenada",
+      "PinYin": "GE LIN NA DA",
+      "CountryCode": "1473",
+      "OpenSMS": "0",
+      "ShortEnName": "GD",
+      "ThreeCode": "GRD"
+    },
+    {
+      "ChName": "格鲁吉亚",
+      "EnName": "Georgia",
+      "PinYin": "GE LU JI YA ",
+      "CountryCode": "995",
+      "OpenSMS": "0",
+      "ShortEnName": "GE",
+      "ThreeCode": "GEO"
+    },
+    {
+      "ChName": "古巴",
+      "EnName": "Cuba",
+      "PinYin": "GU BA",
+      "CountryCode": "53",
+      "OpenSMS": "0",
+      "ShortEnName": "CU",
+      "ThreeCode": "CUB"
+    },
+    {
+      "ChName": "圭亚那",
+      "EnName": "Guyana",
+      "PinYin": "GUI YA NA ",
+      "CountryCode": "592",
+      "OpenSMS": "0",
+      "ShortEnName": "GY",
+      "ThreeCode": "GUY"
+    },
+    {
+      "ChName": "哈萨克斯坦",
+      "EnName": "Kazakhstan",
+      "PinYin": "HA SA KE SI TAN",
+      "CountryCode": "7",
+      "OpenSMS": "1",
+      "ShortEnName": "KZ",
+      "ThreeCode": "KAZ"
+    },
+    {
+      "ChName": "海地",
+      "EnName": "Haiti",
+      "PinYin": "HAI DI",
+      "CountryCode": "509",
+      "OpenSMS": "0",
+      "ShortEnName": "HT",
+      "ThreeCode": "HTI"
+    },
+    {
+      "ChName": "荷兰",
+      "EnName": "Netherlands",
+      "PinYin": "HE LAN",
+      "CountryCode": "31",
+      "OpenSMS": "1",
+      "ShortEnName": "NL",
+      "ThreeCode": "NLD"
+    },
+    {
+      "ChName": "洪都拉斯",
+      "EnName": "Honduras",
+      "PinYin": "HONG DU LA SI",
+      "CountryCode": "504",
+      "OpenSMS": "0",
+      "ShortEnName": "HN",
+      "ThreeCode": "HND"
+    },
+    {
+      "ChName": "基里巴斯",
+      "EnName": "Kiribati",
+      "PinYin": "JI LI BA SI",
+      "CountryCode": "686",
+      "OpenSMS": "0",
+      "ShortEnName": "KI",
+      "ThreeCode": "KIR"
+    },
+    {
+      "ChName": "吉布提",
+      "EnName": "Djibouti",
+      "PinYin": "JI BU TI",
+      "CountryCode": "253",
+      "OpenSMS": "0",
+      "ShortEnName": "DJ",
+      "ThreeCode": "DJI"
+    },
+    {
+      "ChName": "吉尔吉斯斯坦",
+      "EnName": "Kirgizstan",
+      "PinYin": "JI ER JI SI SI TAN",
+      "CountryCode": "996",
+      "OpenSMS": "0",
+      "ShortEnName": "KG",
+      "ThreeCode": "KGZ"
+    },
+    {
+      "ChName": "几内亚",
+      "EnName": "Guinea",
+      "PinYin": "JI NEI YA",
+      "CountryCode": "224",
+      "OpenSMS": "0",
+      "ShortEnName": "GN",
+      "ThreeCode": "GIN"
+    },
+    {
+      "ChName": "几内亚比绍",
+      "EnName": "Guinea-bissau",
+      "PinYin": "JI NEI YA BI SHAO",
+      "CountryCode": "245",
+      "OpenSMS": "0",
+      "ShortEnName": "GW",
+      "ThreeCode": "GNB"
+    },
+    {
+      "ChName": "加纳",
+      "EnName": "Ghana",
+      "PinYin": "JIA  NA ",
+      "CountryCode": "233",
+      "OpenSMS": "0",
+      "ShortEnName": "GH",
+      "ThreeCode": "GHA"
+    },
+    {
+      "ChName": "加蓬",
+      "EnName": "Gabon",
+      "PinYin": "JIA PENG",
+      "CountryCode": "241",
+      "OpenSMS": "0",
+      "ShortEnName": "GA",
+      "ThreeCode": "GAB"
+    },
+    {
+      "ChName": "捷克",
+      "EnName": "Czech",
+      "PinYin": "JIE KE",
+      "CountryCode": "420",
+      "OpenSMS": "1",
+      "ShortEnName": "CZ",
+      "ThreeCode": "CZE"
+    },
+    {
+      "ChName": "津巴布韦",
+      "EnName": "Zimbabwe",
+      "PinYin": "JIN BA BU WEI",
+      "CountryCode": "263",
+      "OpenSMS": "0",
+      "ShortEnName": "ZW",
+      "ThreeCode": "ZWE"
+    },
+    {
+      "ChName": "喀麦隆",
+      "EnName": "Cameroon",
+      "PinYin": "KA MAI LONG",
+      "CountryCode": "237",
+      "OpenSMS": "0",
+      "ShortEnName": "CM",
+      "ThreeCode": "CMR"
+    },
+    {
+      "ChName": "卡塔尔",
+      "EnName": "Qatar",
+      "PinYin": "KA TA ER",
+      "CountryCode": "974",
+      "OpenSMS": "0",
+      "ShortEnName": "QA",
+      "ThreeCode": "QAT"
+    },
+    {
+      "ChName": "科摩罗",
+      "EnName": "Comoros",
+      "PinYin": "KE MO LUO",
+      "CountryCode": "269",
+      "OpenSMS": "0",
+      "ShortEnName": "KM",
+      "ThreeCode": "COM"
+    },
+    {
+      "ChName": "科特迪瓦",
+      "EnName": "Coted Ivoire",
+      "PinYin": "KE TE DI WA",
+      "CountryCode": "225",
+      "OpenSMS": "0",
+      "ShortEnName": "CI",
+      "ThreeCode": "CIV"
+    },
+    {
+      "ChName": "科威特",
+      "EnName": "Kuwait",
+      "PinYin": "KE WEI TE",
+      "CountryCode": "965",
+      "OpenSMS": "0",
+      "ShortEnName": "KW",
+      "ThreeCode": "KWT"
+    },
+    {
+      "ChName": "克罗地亚",
+      "EnName": "Croatia",
+      "PinYin": "KE LUO DI YA",
+      "CountryCode": "385",
+      "OpenSMS": "0",
+      "ShortEnName": "HR",
+      "ThreeCode": "HRV"
+    },
+    {
+      "ChName": "肯尼亚",
+      "EnName": "Kenya",
+      "PinYin": "KEN NI YA",
+      "CountryCode": "254",
+      "OpenSMS": "0",
+      "ShortEnName": "KE",
+      "ThreeCode": "KEN"
+    },
+    {
+      "ChName": "拉脱维亚",
+      "EnName": "Latvia",
+      "PinYin": "LA TUO WEI YA",
+      "CountryCode": "371",
+      "OpenSMS": "0",
+      "ShortEnName": "LV",
+      "ThreeCode": "LVA"
+    },
+    {
+      "ChName": "莱索托",
+      "EnName": "Lesotho",
+      "PinYin": "LAI SUO TUO",
+      "CountryCode": "266",
+      "OpenSMS": "0",
+      "ShortEnName": "LS",
+      "ThreeCode": "LSO"
+    },
+    {
+      "ChName": "老挝",
+      "EnName": "Lao",
+      "PinYin": "LAO WO",
+      "CountryCode": "856",
+      "OpenSMS": "0",
+      "ShortEnName": "LA",
+      "ThreeCode": "LAO"
+    },
+    {
+      "ChName": "黎巴嫩",
+      "EnName": "Lebanon",
+      "PinYin": "LI MA NEN",
+      "CountryCode": "961",
+      "OpenSMS": "0",
+      "ShortEnName": "LB",
+      "ThreeCode": "LBN"
+    },
+    {
+      "ChName": "立陶宛",
+      "EnName": "Lithuania",
+      "PinYin": "LI TAO WAN",
+      "CountryCode": "370",
+      "OpenSMS": "0",
+      "ShortEnName": "LT",
+      "ThreeCode": "LTU"
+    },
+    {
+      "ChName": "利比里亚",
+      "EnName": "Liberia",
+      "PinYin": "LI BI LI YA",
+      "CountryCode": "231",
+      "OpenSMS": "0",
+      "ShortEnName": "LR",
+      "ThreeCode": "LBR"
+    },
+    {
+      "ChName": "利比亚",
+      "EnName": "Libya",
+      "PinYin": "LI BI YA",
+      "CountryCode": "218",
+      "OpenSMS": "0",
+      "ShortEnName": "LY",
+      "ThreeCode": "LBY"
+    },
+    {
+      "ChName": "列支敦士登",
+      "EnName": "Liechtenstein",
+      "PinYin": "LIE ZHI DUN SHI DENG",
+      "CountryCode": "423",
+      "OpenSMS": "0",
+      "ShortEnName": "LI",
+      "ThreeCode": "LIE"
+    },
+    {
+      "ChName": "卢森堡",
+      "EnName": "Luxembourg",
+      "PinYin": "LU SEN BAO",
+      "CountryCode": "352",
+      "OpenSMS": "0",
+      "ShortEnName": "LU",
+      "ThreeCode": "LUX"
+    },
+    {
+      "ChName": "卢旺达",
+      "EnName": "Rwanda",
+      "PinYin": "LU WANG DA",
+      "CountryCode": "250",
+      "OpenSMS": "0",
+      "ShortEnName": "RW",
+      "ThreeCode": "RWA"
+    },
+    {
+      "ChName": "罗马尼亚",
+      "EnName": "Romania",
+      "PinYin": "LUO MA NI YA",
+      "CountryCode": "40",
+      "OpenSMS": "0",
+      "ShortEnName": "RO",
+      "ThreeCode": "ROU"
+    },
+    {
+      "ChName": "马达加斯加",
+      "EnName": "Madagascar",
+      "PinYin": "MA DA JIA SI JIA",
+      "CountryCode": "261",
+      "OpenSMS": "0",
+      "ShortEnName": "MG",
+      "ThreeCode": "MDG"
+    },
+    {
+      "ChName": "马尔代夫",
+      "EnName": "Maldives",
+      "PinYin": "MA ER DAI FU",
+      "CountryCode": "960",
+      "OpenSMS": "0",
+      "ShortEnName": "MV",
+      "ThreeCode": "MDV"
+    },
+    {
+      "ChName": "马耳他",
+      "EnName": "Malta",
+      "PinYin": "MA ER TA",
+      "CountryCode": "356",
+      "OpenSMS": "0",
+      "ShortEnName": "MT",
+      "ThreeCode": "MLT"
+    },
+    {
+      "ChName": "马拉维",
+      "EnName": "Malawi",
+      "PinYin": "MA LA WEI",
+      "CountryCode": "265",
+      "OpenSMS": "0",
+      "ShortEnName": "MW",
+      "ThreeCode": "MWI"
+    },
+    {
+      "ChName": "马里",
+      "EnName": "Mali",
+      "PinYin": "MA LI",
+      "CountryCode": "223",
+      "OpenSMS": "0",
+      "ShortEnName": "ML",
+      "ThreeCode": "MLI"
+    },
+    {
+      "ChName": "马其顿共和国",
+      "EnName": "Macedonia",
+      "PinYin": "MA QI DUN GONG HE GUO",
+      "CountryCode": "389",
+      "OpenSMS": "0",
+      "ShortEnName": "MK",
+      "ThreeCode": "MKD"
+    },
+    {
+      "ChName": "马绍尔群岛",
+      "EnName": "Marshall Islands",
+      "PinYin": "MA SHAO ER QUN DAO",
+      "CountryCode": "692",
+      "OpenSMS": "0",
+      "ShortEnName": "MH",
+      "ThreeCode": "MHL"
+    },
+    {
+      "ChName": "毛里求斯",
+      "EnName": "Mauritius",
+      "PinYin": "MAO LI QIU SI",
+      "CountryCode": "230",
+      "OpenSMS": "0",
+      "ShortEnName": "MU",
+      "ThreeCode": "MUS"
+    },
+    {
+      "ChName": "毛里塔尼亚",
+      "EnName": "Mauritania",
+      "PinYin": "MAO LI TA NI YA",
+      "CountryCode": "222",
+      "OpenSMS": "0",
+      "ShortEnName": "MR",
+      "ThreeCode": "MRT"
+    },
+    {
+      "ChName": "蒙古",
+      "EnName": "Mongolia",
+      "PinYin": "MENG GU",
+      "CountryCode": "976",
+      "OpenSMS": "0",
+      "ShortEnName": "MN",
+      "ThreeCode": "MNG"
+    },
+    {
+      "ChName": "孟加拉国",
+      "EnName": "Bangladesh",
+      "PinYin": "MENG JIA LA GUO",
+      "CountryCode": "880",
+      "OpenSMS": "0",
+      "ShortEnName": "BD",
+      "ThreeCode": "BGD"
+    },
+    {
+      "ChName": "秘鲁",
+      "EnName": "Peru",
+      "PinYin": "MI LU",
+      "CountryCode": "51",
+      "OpenSMS": "0",
+      "ShortEnName": "PE",
+      "ThreeCode": "PER"
+    },
+    {
+      "ChName": "密克罗尼西亚",
+      "EnName": "Micronesia",
+      "PinYin": "MI KE LUO NI XI YA",
+      "CountryCode": "691",
+      "OpenSMS": "0",
+      "ShortEnName": "FM",
+      "ThreeCode": "FSM"
+    },
+    {
+      "ChName": "缅甸",
+      "EnName": "Myanmar",
+      "PinYin": "MIAN DIAN",
+      "CountryCode": "95",
+      "OpenSMS": "0",
+      "ShortEnName": "MM",
+      "ThreeCode": "MMR"
+    },
+    {
+      "ChName": "摩尔多瓦",
+      "EnName": "Moldova",
+      "PinYin": "MO ER DUO WA",
+      "CountryCode": "373",
+      "OpenSMS": "0",
+      "ShortEnName": "MD",
+      "ThreeCode": "MDA"
+    },
+    {
+      "ChName": "摩洛哥",
+      "EnName": "Morocco",
+      "PinYin": "MO LUO GE",
+      "CountryCode": "212",
+      "OpenSMS": "0",
+      "ShortEnName": "MA",
+      "ThreeCode": "MAR"
+    },
+    {
+      "ChName": "摩纳哥",
+      "EnName": "Monaco",
+      "PinYin": "MO NA GE",
+      "CountryCode": "377",
+      "OpenSMS": "0",
+      "ShortEnName": "MC",
+      "ThreeCode": "MCO"
+    },
+    {
+      "ChName": "莫桑比克",
+      "EnName": "Mozambique",
+      "PinYin": "MO SANG BI KE",
+      "CountryCode": "258",
+      "OpenSMS": "0",
+      "ShortEnName": "MZ",
+      "ThreeCode": "MOZ"
+    },
+    {
+      "ChName": "墨西哥",
+      "EnName": "Mexico",
+      "PinYin": "MO XI GE",
+      "CountryCode": "52",
+      "OpenSMS": "0",
+      "ShortEnName": "MX",
+      "ThreeCode": "MEX"
+    },
+    {
+      "ChName": "纳米比亚",
+      "EnName": "Namibia",
+      "PinYin": "NA MI BI YA",
+      "CountryCode": "264",
+      "OpenSMS": "0",
+      "ShortEnName": "NA",
+      "ThreeCode": "NAM"
+    },
+    {
+      "ChName": "南非",
+      "EnName": "South Africa",
+      "PinYin": "NAN FEI",
+      "CountryCode": "27",
+      "OpenSMS": "1",
+      "ShortEnName": "ZA",
+      "ThreeCode": "ZAF"
+    },
+    {
+      "ChName": "瑙鲁",
+      "EnName": "Nauru",
+      "PinYin": "NAO LU",
+      "CountryCode": "674",
+      "OpenSMS": "0",
+      "ShortEnName": "NR",
+      "ThreeCode": "NRU"
+    },
+    {
+      "ChName": "尼泊尔",
+      "EnName": "Nepal",
+      "PinYin": "NI BO ER",
+      "CountryCode": "977",
+      "OpenSMS": "0",
+      "ShortEnName": "NP",
+      "ThreeCode": "NPL"
+    },
+    {
+      "ChName": "尼加拉瓜",
+      "EnName": "Nicaragua",
+      "PinYin": "NI JIA LA GUA",
+      "CountryCode": "505",
+      "OpenSMS": "0",
+      "ShortEnName": "NI",
+      "ThreeCode": "NIC"
+    },
+    {
+      "ChName": "尼日尔",
+      "EnName": "Niger",
+      "PinYin": "NI RI ER",
+      "CountryCode": "227",
+      "OpenSMS": "0",
+      "ShortEnName": "NE",
+      "ThreeCode": "NER"
+    },
+    {
+      "ChName": "尼日利亚",
+      "EnName": "Nigeria",
+      "PinYin": "NI RI LI YA",
+      "CountryCode": "234",
+      "OpenSMS": "0",
+      "ShortEnName": "NG",
+      "ThreeCode": "NGA"
+    },
+    {
+      "ChName": "挪威",
+      "EnName": "Norway",
+      "PinYin": "NUO WEI",
+      "CountryCode": "47",
+      "OpenSMS": "0",
+      "ShortEnName": "NO",
+      "ThreeCode": "NOR"
+    },
+    {
+      "ChName": "帕劳群岛",
+      "EnName": "Palau",
+      "PinYin": "PA LAO",
+      "CountryCode": "680",
+      "OpenSMS": "0",
+      "ShortEnName": "PW",
+      "ThreeCode": "PLW"
+    },
+    {
+      "ChName": "瑞典",
+      "EnName": "Sweden",
+      "PinYin": "RUI DIAN",
+      "CountryCode": "46",
+      "OpenSMS": "0",
+      "ShortEnName": "SE",
+      "ThreeCode": "SWE"
+    },
+    {
+      "ChName": "瑞士",
+      "EnName": "Switzerland",
+      "PinYin": "RUI SHI",
+      "CountryCode": "41",
+      "OpenSMS": "1",
+      "ShortEnName": "CH",
+      "ThreeCode": "CHE"
+    },
+    {
+      "ChName": "萨尔瓦多",
+      "EnName": "El Salvador",
+      "PinYin": "SA LONG WA DUO",
+      "CountryCode": "503",
+      "OpenSMS": "0",
+      "ShortEnName": "SV",
+      "ThreeCode": "SLV"
+    },
+    {
+      "ChName": "塞尔维亚",
+      "EnName": "Serbia",
+      "PinYin": "SAI ER WEI YA",
+      "CountryCode": "381",
+      "OpenSMS": "0",
+      "ShortEnName": "RS",
+      "ThreeCode": "SCG"
+    },
+    {
+      "ChName": "塞拉利昂",
+      "EnName": "Sierra Leone",
+      "PinYin": "SAI LA LI ANG",
+      "CountryCode": "232",
+      "OpenSMS": "0",
+      "ShortEnName": "SL",
+      "ThreeCode": "SLE"
+    },
+    {
+      "ChName": "塞内加尔",
+      "EnName": "Senegal",
+      "PinYin": "SAI NEI JIA ER",
+      "CountryCode": "221",
+      "OpenSMS": "0",
+      "ShortEnName": "SN",
+      "ThreeCode": "SEN"
+    },
+    {
+      "ChName": "塞浦路斯",
+      "EnName": "Cyprus",
+      "PinYin": "SAI PU LU SI",
+      "CountryCode": "357",
+      "OpenSMS": "0",
+      "ShortEnName": "CY",
+      "ThreeCode": "CYP"
+    },
+    {
+      "ChName": "塞舌尔",
+      "EnName": "Seychelles",
+      "PinYin": "SAI SHE ER",
+      "CountryCode": "248",
+      "OpenSMS": "0",
+      "ShortEnName": "SC",
+      "ThreeCode": "SYC"
+    },
+    {
+      "ChName": "沙特阿拉伯",
+      "EnName": "Saudi Arabia",
+      "PinYin": "SHA TE A LA BO",
+      "CountryCode": "966",
+      "OpenSMS": "0",
+      "ShortEnName": "SA",
+      "ThreeCode": "SAU"
+    },
+    {
+      "ChName": "尚比亚",
+      "EnName": "Zambia",
+      "PinYin": "SHANG BI YA",
+      "CountryCode": "260",
+      "OpenSMS": "0",
+      "ShortEnName": "ZM",
+      "ThreeCode": "ZMB"
+    },
+    {
+      "ChName": "圣多美和普林西比",
+      "EnName": "Sao Tome and Principe",
+      "PinYin": "SHENG DUO MEI HE PU LIN XI BI",
+      "CountryCode": "239",
+      "OpenSMS": "0",
+      "ShortEnName": "ST",
+      "ThreeCode": "STP"
+    },
+    {
+      "ChName": "圣卢西亚",
+      "EnName": "Saint Lucia",
+      "PinYin": "SHENG LU XI YA",
+      "CountryCode": "1758",
+      "OpenSMS": "0",
+      "ShortEnName": "LC",
+      "ThreeCode": "LCA"
+    },
+    {
+      "ChName": "圣马力诺",
+      "EnName": "San Marino",
+      "PinYin": "SHENG MA LI NUO",
+      "CountryCode": "378",
+      "OpenSMS": "0",
+      "ShortEnName": "SM",
+      "ThreeCode": "SMR"
+    },
+    {
+      "ChName": "圣文森特和格林纳丁斯",
+      "EnName": "Saint Vincent and the Grenadines",
+      "PinYin": "SHENG WEN SEN TE DAO",
+      "CountryCode": "1784",
+      "OpenSMS": "0",
+      "ShortEnName": "VC",
+      "ThreeCode": "VCT"
+    },
+    {
+      "ChName": "斯里兰卡",
+      "EnName": "Sri Lanka",
+      "PinYin": "SI LI LAN KA",
+      "CountryCode": "94",
+      "OpenSMS": "1",
+      "ShortEnName": "LK",
+      "ThreeCode": "LKA"
+    },
+    {
+      "ChName": "斯洛伐克",
+      "EnName": "Slovakia",
+      "PinYin": "SI LUO FA KE",
+      "CountryCode": "421",
+      "OpenSMS": "0",
+      "ShortEnName": "SK",
+      "ThreeCode": "SVK"
+    },
+    {
+      "ChName": "斯洛文尼亚",
+      "EnName": "Slovenia",
+      "PinYin": "SI LUO WEN NI YA",
+      "CountryCode": "386",
+      "OpenSMS": "0",
+      "ShortEnName": "SI",
+      "ThreeCode": "SVN"
+    },
+    {
+      "ChName": "斯威士兰",
+      "EnName": "Swaziland",
+      "PinYin": "SI WEI SHI LAN",
+      "CountryCode": "268",
+      "OpenSMS": "0",
+      "ShortEnName": "SZ",
+      "ThreeCode": "SWZ"
+    },
+    {
+      "ChName": "苏丹",
+      "EnName": "Sudan",
+      "PinYin": "SU DAN",
+      "CountryCode": "249",
+      "OpenSMS": "0",
+      "ShortEnName": "SD",
+      "ThreeCode": "SDN"
+    },
+    {
+      "ChName": "苏里南",
+      "EnName": "Suriname",
+      "PinYin": "SU LI NAN",
+      "CountryCode": "597",
+      "OpenSMS": "0",
+      "ShortEnName": "SR",
+      "ThreeCode": "SUR"
+    },
+    {
+      "ChName": "所罗门群岛",
+      "EnName": "Solomon Islands",
+      "PinYin": "SUO LUO MEN QUN DAO",
+      "CountryCode": "677",
+      "OpenSMS": "0",
+      "ShortEnName": "SB",
+      "ThreeCode": "SLB"
+    },
+    {
+      "ChName": "索马里",
+      "EnName": "Somalia",
+      "PinYin": "SUO MA LI",
+      "CountryCode": "252",
+      "OpenSMS": "0",
+      "ShortEnName": "SO",
+      "ThreeCode": "SOM"
+    },
+    {
+      "ChName": "塔吉克斯坦",
+      "EnName": "Tajikistan",
+      "PinYin": "TA JI KE SI TAN",
+      "CountryCode": "992",
+      "OpenSMS": "0",
+      "ShortEnName": "TJ",
+      "ThreeCode": "TJK"
+    },
+    {
+      "ChName": "坦桑尼亚",
+      "EnName": "Tanzania",
+      "PinYin": "TAN SANG NI YA",
+      "CountryCode": "255",
+      "OpenSMS": "0",
+      "ShortEnName": "TZ",
+      "ThreeCode": "TZA"
+    },
+    {
+      "ChName": "汤加",
+      "EnName": "Tonga",
+      "PinYin": "TANG JIA",
+      "CountryCode": "676",
+      "OpenSMS": "0",
+      "ShortEnName": "TO",
+      "ThreeCode": "TON"
+    },
+    {
+      "ChName": "特立尼达和多巴哥",
+      "EnName": "Trinidad and Tobago",
+      "PinYin": "TE LI NI DA HE DUO BA GE",
+      "CountryCode": "1868",
+      "OpenSMS": "0",
+      "ShortEnName": "TT",
+      "ThreeCode": "TTO"
+    },
+    {
+      "ChName": "突尼斯",
+      "EnName": "Tunisia",
+      "PinYin": "TU NI SI",
+      "CountryCode": "216",
+      "OpenSMS": "0",
+      "ShortEnName": "TN",
+      "ThreeCode": "TUN"
+    },
+    {
+      "ChName": "图瓦卢",
+      "EnName": "Tuvalu",
+      "PinYin": "TU WA LU",
+      "CountryCode": "688",
+      "OpenSMS": "0",
+      "ShortEnName": "TV",
+      "ThreeCode": "TUV"
+    },
+    {
+      "ChName": "土耳其",
+      "EnName": "Turkey",
+      "PinYin": "TU ER QI",
+      "CountryCode": "90",
+      "OpenSMS": "0",
+      "ShortEnName": "TR",
+      "ThreeCode": "TUR"
+    },
+    {
+      "ChName": "土库曼斯坦",
+      "EnName": "Turkmenstan",
+      "PinYin": "TU KU MAN SI TAN",
+      "CountryCode": "993",
+      "OpenSMS": "0",
+      "ShortEnName": "TM",
+      "ThreeCode": "TKM"
+    },
+    {
+      "ChName": "瓦努阿图",
+      "EnName": "Vanuatu",
+      "PinYin": "WA NU A TU",
+      "CountryCode": "678",
+      "OpenSMS": "0",
+      "ShortEnName": "VU",
+      "ThreeCode": "VUT"
+    },
+    {
+      "ChName": "危地马拉",
+      "EnName": "Guatemala",
+      "PinYin": "WEI DI MA LA",
+      "CountryCode": "502",
+      "OpenSMS": "0",
+      "ShortEnName": "GT",
+      "ThreeCode": "GTM"
+    },
+    {
+      "ChName": "委内瑞拉",
+      "EnName": "Venezuela",
+      "PinYin": "WEI NEI RUI LA",
+      "CountryCode": "58",
+      "OpenSMS": "0",
+      "ShortEnName": "VE",
+      "ThreeCode": "VEN"
+    },
+    {
+      "ChName": "文莱",
+      "EnName": "Brunei",
+      "PinYin": "WEN LAI",
+      "CountryCode": "673",
+      "OpenSMS": "0",
+      "ShortEnName": "BN",
+      "ThreeCode": "BRN"
+    },
+    {
+      "ChName": "乌干达",
+      "EnName": "Uganda",
+      "PinYin": "WU GAN DA",
+      "CountryCode": "256",
+      "OpenSMS": "0",
+      "ShortEnName": "UG",
+      "ThreeCode": "UGA"
+    },
+    {
+      "ChName": "乌克兰",
+      "EnName": "Ukraine",
+      "PinYin": "WU KE LAN",
+      "CountryCode": "380",
+      "OpenSMS": "0",
+      "ShortEnName": "UA",
+      "ThreeCode": "UKR"
+    },
+    {
+      "ChName": "乌拉圭",
+      "EnName": "Uruguay",
+      "PinYin": "WU LA GUI",
+      "CountryCode": "598",
+      "OpenSMS": "0",
+      "ShortEnName": "UY",
+      "ThreeCode": "URY"
+    },
+    {
+      "ChName": "乌兹别克斯坦",
+      "EnName": "Uzbekistan",
+      "PinYin": "WU ZI BIE KE SI TAN",
+      "CountryCode": "998",
+      "OpenSMS": "0",
+      "ShortEnName": "UZ",
+      "ThreeCode": "UZB"
+    },
+    {
+      "ChName": "西班牙",
+      "EnName": "Spain",
+      "PinYin": "XI BAN YA",
+      "CountryCode": "34",
+      "OpenSMS": "1",
+      "ShortEnName": "ES",
+      "ThreeCode": "ESP"
+    },
+    {
+      "ChName": "萨摩亚",
+      "EnName": "Samoa",
+      "PinYin": "SA MO YA",
+      "CountryCode": "685",
+      "OpenSMS": "0",
+      "ShortEnName": "WS",
+      "ThreeCode": "WSM"
+    },
+    {
+      "ChName": "希腊",
+      "EnName": "Greece",
+      "PinYin": "XI LA ",
+      "CountryCode": "30",
+      "OpenSMS": "1",
+      "ShortEnName": "GR",
+      "ThreeCode": "GRC"
+    },
+    {
+      "ChName": "匈牙利",
+      "EnName": "Hungary",
+      "PinYin": "XIONG YA LI ",
+      "CountryCode": "36",
+      "OpenSMS": "0",
+      "ShortEnName": "HU",
+      "ThreeCode": "HUN"
+    },
+    {
+      "ChName": "叙利亚",
+      "EnName": "Syria",
+      "PinYin": "XU LI YA",
+      "CountryCode": "963",
+      "OpenSMS": "0",
+      "ShortEnName": "SY",
+      "ThreeCode": "SYR"
+    },
+    {
+      "ChName": "牙买加",
+      "EnName": "Jamaica",
+      "PinYin": "YA MAI JIA",
+      "CountryCode": "1876",
+      "OpenSMS": "0",
+      "ShortEnName": "JM",
+      "ThreeCode": "JAM"
+    },
+    {
+      "ChName": "亚美尼亚",
+      "EnName": "Armenia",
+      "PinYin": "YA MEI NI YA",
+      "CountryCode": "374",
+      "OpenSMS": "0",
+      "ShortEnName": "AM",
+      "ThreeCode": "ARM"
+    },
+    {
+      "ChName": "也门",
+      "EnName": "Yemen",
+      "PinYin": "YE MEN",
+      "CountryCode": "967",
+      "OpenSMS": "0",
+      "ShortEnName": "YE",
+      "ThreeCode": "YEM"
+    },
+    {
+      "ChName": "伊拉克",
+      "EnName": "Iraq",
+      "PinYin": "YI LA KE",
+      "CountryCode": "964",
+      "OpenSMS": "0",
+      "ShortEnName": "IQ",
+      "ThreeCode": "IRQ"
+    },
+    {
+      "ChName": "伊朗",
+      "EnName": "Iran",
+      "PinYin": "YI LANG",
+      "CountryCode": "98",
+      "OpenSMS": "0",
+      "ShortEnName": "IR",
+      "ThreeCode": "IRN"
+    },
+    {
+      "ChName": "以色列",
+      "EnName": "Israel",
+      "PinYin": "YI SE LIE",
+      "CountryCode": "972",
+      "OpenSMS": "0",
+      "ShortEnName": "IL",
+      "ThreeCode": "ISR"
+    },
+    {
+      "ChName": "约旦",
+      "EnName": "Jordan",
+      "PinYin": "YUE DAN ",
+      "CountryCode": "962",
+      "OpenSMS": "0",
+      "ShortEnName": "JO",
+      "ThreeCode": "JOR"
+    },
+    {
+      "ChName": "乍得",
+      "EnName": "Chad",
+      "PinYin": "ZHA DE",
+      "CountryCode": "235",
+      "OpenSMS": "0",
+      "ShortEnName": "TD",
+      "ThreeCode": "TCD"
+    },
+    {
+      "ChName": "智利",
+      "EnName": "Chile",
+      "PinYin": "ZHI LI",
+      "CountryCode": "56",
+      "OpenSMS": "0",
+      "ShortEnName": "CL",
+      "ThreeCode": "CHL"
+    }
+  ]
+}

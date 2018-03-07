@@ -1,0 +1,21 @@
+{
+  "prerequire": {
+      "status": 0,
+      "message": "",
+      "userId": "uid",
+      "username": "user01",
+      "orderId": "1513663716497636129J",
+      "price": 1000.00,
+      "payTypes": [1, 2, 3]
+      },
+  "limit":{
+    "status" : 0,
+    "message" : "",
+    "orderId" : "1513663716497636129J",
+    "price" : 1000.00,
+    "balance" : 1000.00,
+    "paymentTime" : "2017-12-14 13:00:12",
+    "billingId" : "2394567699899"
+  }
+
+}

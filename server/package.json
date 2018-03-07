@@ -1,0 +1,185 @@
+{
+  "dependencies": {
+    "axios": "~0.17.1",
+    "body-parser": "~1.18.2",
+    "ccap": "~0.6.10",
+    "compression": "~1.7.1",
+    "connect-history-api-fallback": "~1.5.0",
+    "connect-redis": "~3.3.2",
+    "cookie-parser": "~1.4.3",
+    "encodeurl": "~1.0.1",
+    "express": "~4.16.2",
+    "express-session": "~1.15.6",
+    "glob": "~7.1.2",
+    "ioredis": "~3.2.2",
+    "linq": "~3.0.9",
+    "log4js": "~2.3.12",
+    "log4js-http": "~0.0.19",
+    "moment": "~2.19.2",
+    "multer": "~1.3.0",
+    "node-xlsx": "~0.11.2",
+    "serve-favicon": "~2.4.5"
+  },
+  "name": "buyerweb",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {
+    "node-xlsx": "^0.11.2"
+  },
+  "scripts": {
+    "dev": "node app.js --env=dev",
+    "demo": "node app.js --env=demo",
+    "prd": "node app.js --env=prd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+http://119.84.8.43:13201/uhetrip/BuyerWeb.git"
+  },
+  "author": "Jack",
+  "envConfig": {
+    "dev": {
+      "webport": 4205,
+      "bindIP": "0.0.0.0",
+      "redisDefault": {
+        "host": "119.84.8.43",
+        "port": 13219,
+        "pass": null
+      },
+      "service": {
+        "dataService": {
+          "urlPrefix": "http://119.84.8.43:13203"
+        },
+        "orderService": {
+          "urlPrefix": "http://119.84.8.43:13204"
+        },
+        "DBService": {
+          "urlPrefix": "http://119.84.8.43:13205"
+        },
+        "orderServiceMock": {
+          "urlPrefix": "http://localhost:3002"
+        },
+        "DBServiceMock": {
+          "urlPrefix": "http://localhost:3001"
+        },
+        "accountServiceMock": {
+          "urlPrefix": "http://localhost:3003"
+        },
+        "buyerWebUrl": {
+          "urlPrefix": "http://dev.uhetrip.com:13215"
+        },
+        "paymentService": {
+          "urlPrefix": "http://119.84.8.43:13211"
+        },
+        "accountingService": {
+          "urlPrefix": "http://119.84.8.43:13210"
+        },
+        "ticketingService": {
+          "urlPrefix": "http://119.84.8.43:13220"
+        },
+        "refundService": {
+          "urlPrefix": "http://119.84.8.43:13233"
+        },
+        "refundServiceMock": {
+          "urlPrefix": "http://localhost:13000"
+        },
+        "authService": {
+          "urlPrefix": "http://119.84.8.43:13229"
+        }
+      }
+    },
+    "demo": {
+      "webport": 4205,
+      "bindIP": "0.0.0.0",
+      "redisDefault": {
+        "host": "192.168.0.39",
+        "port": 6379,
+        "pass": null
+      },
+      "service": {
+        "dataService": {
+          "urlPrefix": "http://119.84.8.43:13207"
+        },
+        "orderService": {
+          "urlPrefix": "http://119.84.8.43:13208"
+        },
+        "DBService": {
+          "urlPrefix": "http://119.84.8.43:13209"
+        },
+        "orderServiceMock": {
+          "urlPrefix": "http://localhost:3002"
+        },
+        "DBServiceMock": {
+          "urlPrefix": "http://localhost:3001"
+        },
+        "buyerWebUrl": {
+          "urlPrefix": "http://demo.uhetrip.com:13218"
+        },
+        "paymentService": {
+          "urlPrefix": "http://119.84.8.43:13223"
+        },
+        "accountingService": {
+          "urlPrefix": "http://119.84.8.43:13224"
+        },
+        "ticketingService": {
+          "urlPrefix": "http://119.84.8.43:13221"
+        },
+        "refundService": {
+          "urlPrefix": "http://119.84.8.43:13232"
+        },
+        "refundServiceMock": {
+          "urlPrefix": "http://localhost:13000"
+        },
+        "authService": {
+          "urlPrefix": "http://119.84.8.43:13230"
+        }
+      }
+    },
+    "prd": {
+      "webport": 4000,
+      "bindIP": "0.0.0.0",
+      "redisDefault": {
+        "host": "10.31.204.178",
+        "port": 6379,
+        "pass": null
+      },
+      "service": {
+        "dataService": {
+          "urlPrefix": "http://10.30.236.130:4101"
+        },
+        "orderService": {
+          "urlPrefix": "http://10.30.236.130:4301"
+        },
+        "DBService": {
+          "urlPrefix": "http://10.30.236.130:4401"
+        },
+        "orderServiceMock": {
+          "urlPrefix": "http://localhost:3002"
+        },
+        "DBServiceMock": {
+          "urlPrefix": "http://localhost:3001"
+        },
+        "buyerWebUrl": {
+          "urlPrefix": "http://www.uhetrip.com:80"
+        },
+        "paymentService": {
+          "urlPrefix": "http://10.30.236.130:4403"
+        },
+        "accountingService": {
+          "urlPrefix": "http://10.30.236.130:4406"
+        },
+        "ticketingService": {
+          "urlPrefix": "http://10.30.236.130:4003"
+        },
+        "refundService": {
+          "urlPrefix": "http://10.30.236.130:4404"
+        },
+        "refundServiceMock": {
+          "urlPrefix": "http://localhost:13000"
+        },
+        "authService": {
+          "urlPrefix": "http://10.30.236.130:4002"
+        }
+      }
+    }
+  }
+}

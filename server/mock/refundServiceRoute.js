@@ -1,0 +1,11 @@
+{
+     "/refund/order/list/v1":"/refundlist"
+    ,"/refund/order/get/v1":"/refundorderget"
+    ,"/refund/apply/v1":"/refundapply"
+    ,"/refund/validate/v1":"/refundvalidate"
+    ,"/refund/manage/ticket/v1":"/manageticket"
+    ,"/refund/manage/answer/v1":"/manageanswer"
+    ,"/refund/manage/order/lock/v1":"/manageorderlock"
+    ,"/refund/manage/order/unlock/v1":"/manageorderunlock"
+    ,"/refund/cancel/v1":"/refundcancel"
+}

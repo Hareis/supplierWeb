@@ -1,0 +1,9 @@
+apps:
+  - script   : ./server/app.js
+    instances: 2
+    exec_mode: cluster
+    name: BuyerWeb
+    args: -- --env=demo
+    cwd : ./server
+    watch: true
+    instance_var: INSTANCE_ID

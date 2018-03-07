@@ -1,0 +1,250 @@
+{
+    "refundlist":
+    {
+        "status": 0,
+        "message": "success",
+        "totalRow":120,
+        "totalPage":12,
+        "orders":
+        [
+            {
+                "refundType":1,
+                "orderId" : "order_id",
+                "sourceOrderId" : "order_id",
+                "sourceAdultPrice" : 100.00,
+                "sourceAdultTax" : 100.00,
+                "sourceChildPrice" : 100.00,
+                "sourceChildTax" : 100.00,
+    
+                "tripType" : 2, 
+                "depCity" : "BJS",
+                "arrCity" : "HKG",
+                "depDate" : "2017-12-30",
+                "retDate" : "2018-01-06",
+    
+                "adultNumber" : 1,
+                "childNumber": 0,
+                "supplierName" : "供应商名字",
+                "supplierId" : "供应商ID",
+                "buyerId" : "代理商名字",
+                "buyerName" : "代理商ID",
+                
+                "mainStatus" : 1, 
+                "paymentType" : 1,
+                "applyTime": "2017-12-08 20:15:59", 
+                "paymentTime" : "2017-12-30 16:50:30", 
+                "ticketTime": "2017-12-08 20:15:59",
+                "paymentVoucher" : "2394", 
+    
+                "passengers" : [
+                    {
+                        "name": "JI/MINGMINGMS",
+                        "gender": "M",
+                        "ageType": 0,
+                        "birthday": "2001-02-01",
+                        "nationality": "CN",
+                        "cardType": "PP",
+                        "cardNum": "G234324",
+                        "cardExpired": "2018-11-07",
+                        "cardIssuePlace": "CN",
+                        "ticketNo":"2177658388",
+                        "pnr" : "ADBE2D"
+                    }
+                ],
+                "segments" : [
+                    {
+                        "itineraryIndex" : 1,
+                        "segmentIndex" : 1,
+                        "carrier" : "KE",
+                        "flightNumber" : "KE898",
+                        "aircraftCode": "777",
+                        "cabin": "B",
+                        "cabinGrade": "Y",
+                        "codeShare" : false,
+                        "depAirport" : "PVG",
+                        "arrAirport" : "ICN",
+                        "depTerminal": "1",
+                        "arrTerminal" : "3",
+                        "depDatetime": "2017-12-30 14:00:00",
+                        "arrDatetime": "2017-12-30 17:00:00",
+                        "duration": 190,
+                        "stopTime" : 120,
+                        "newDepDatetime": "2017-12-30 14:00:00",
+                        "newCabin": "B",
+                        "newFlightNumber" : "KE898"
+                    }
+                ],
+                "contact": {
+                    "address": "",
+                    "email": "",
+                    "mobile": "13635446627",
+                    "name": "晏霞",
+                    "postcode": ""
+                },
+                "reason": {
+                    "type":1, 
+                    "subType":"",
+                    "remark":"",
+                    "attachments":[
+                        {
+                            "id":1,
+                            "name":"",
+                            "base64":""
+                        }
+                    ]
+                },
+                "answer": {
+                    "type":1, 
+                    "adultPrice": 100.00,
+                    "childPrice": 100.00,
+                    "expiryTime": "2017-12-30 14:00:00",
+                    "remark":"", 
+                    "chargeAmount": 100.00,
+                    "returnAmount": 0.00
+                },
+                "lockUserId":"",
+                "lockUsername":"",
+                "lockTime":"2017-12-30 17:00:00"
+            }
+        ]
+    }  
+    ,"refundorderget":
+    {
+        "status": 0,
+        "message": "success",
+        "order":
+        {
+            "refundType":1, 
+            "orderId" : "order_id",
+            "sourceOrderId" : "order_id",
+            "sourceAdultPrice" : 100.00,
+            "sourceAdultTax" : 100.00,
+            "sourceChildPrice" : 100.00,
+            "sourceChildTax" : 100.00,
+    
+            "tripType" : 2,
+            "depCity" : "BJS",
+            "arrCity" : "HKG",
+            "depDate" : "2017-12-30",
+            "retDate" : "2018-01-06",
+    
+            "adultNumber" : 1,
+            "childNumber": 0,
+            "supplierName" : "供应商名字",
+            "supplierId" : "供应商ID",
+            "buyerId" : "买家Id",
+            "buyerName" : "买家名称",
+    
+            "mainStatus" : 1,
+            "paymentType" : 1,
+            "applyTime": "2017-12-08 20:15:59", 
+            "paymentTime" : "2017-12-30 16:50:30",
+            "ticketTime": "2017-12-08 20:15:59",
+            "paymentVoucher" : "2394",
+    
+            "passengers" : [
+                {
+                    "name": "JI/MINGMINGMS",
+                    "gender": "M",
+                    "ageType": 0,
+                    "birthday": "2001-02-01",
+                    "nationality": "CN",
+                    "cardType": "PP",
+                    "cardNum": "G234324",
+                    "cardExpired": "2018-11-07",
+                    "cardIssuePlace": "CN"
+                }
+            ],
+            "segments" : [
+                {
+                    "itineraryIndex" : 1,
+                    "segmentIndex" : 1,
+                    "carrier" : "KE",
+                    "flightNumber" : "KE898",
+                    "aircraftCode": "777",
+                    "cabin": "B",
+                    "cabinGrade": "Y",
+                    "codeShare" : false,
+                    "depAirport" : "PVG",
+                    "arrAirport" : "ICN",
+                    "depTerminal": "1",
+                    "arrTerminal" : "3",
+                    "depDatetime": "2017-12-30 14:00:00",
+                    "arrDatetime": "2017-12-30 17:00:00",
+                    "duration": 190,
+                    "stopTime" : 120,
+                    "newDepDatetime": "2017-12-30 14:00:00",
+                    "newCabin": "B",
+                    "newFlightNumber" : "KE898"
+                }
+            ],
+            "contact": {
+                "address": "",
+                "email": "",
+                "mobile": "13635446627",
+                "name": "晏霞",
+                "postcode": ""
+            },
+            "reason": {
+                "type":1, 
+                "subType":"",
+                "remark":"" ,
+                "attachments":[
+                    {
+                        "id":1,
+                        "name":"",
+                        "base64":""
+                    }
+                ]
+            },
+            "answer": {
+                "type":1, 
+                "adultPrice": 100.00,
+                "childPrice": 100.00,
+                "expiryTime": "2017-12-30 14:00:00",
+                "remark":"", 
+                "chargeAmount": 100.00,
+                "returnAmount": 0.00
+            },
+            "lockUserId":"",
+            "lockUsername":"",
+            "lockUserTime":"2017-12-30 17:00:00"
+        }
+    }
+    ,"refundapply":
+    {
+        "status": 0,
+        "message": "success"
+    }
+    ,"refundvalidate":
+    {
+        "status": 0,
+        "message": "success"
+    }
+    ,"manageanswer":
+    {
+        "status": 0,
+        "message": "success"
+    }
+    ,"manageticket":
+    {
+        "status": 0,
+        "message": "success"
+    }
+    ,"manageorderlock":
+    {
+        "status": 0,
+        "message": "success"
+    }
+    ,"manageorderunlock":
+    {
+        "status": 0,
+        "message": "success"
+    }
+    ,"refundcancel":{
+        "status": 0,
+        "mainStatus": 1,
+        "message": "success"
+
+    }
+}
